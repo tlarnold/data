@@ -23,7 +23,7 @@ In securities worldwide.
 Variance is equal to what?
 Expected value of squared deviations.
 What is the efficient frontier of risky assets?
-The part of the frontier that lies above the global minimum- variance portfolio.
+The part of the frontier that lies above the global minimum-variance portfolio.
 What is the equation for current beta?
 Current beta= a + b (Past Beta)
 What does CAPM provide?
@@ -158,86 +158,86 @@ What is a convertible bond?
 A convertible bond is bond that the owner has the ability to convert to the companies stock at a set price.
 Why would an investor enter into a straddle position?
 An investor would enter into a straddle position if they expect a stock to be more volatile than the market expects.
-	What is asset allocation?
-   The best fitting area for your assets. Either a person is a moderate investor, aggressive, or conservative. Each of these will change the older one gets. 
-	What is the human-value life approach in insurance?
-   A method of calculating how much life insurance a family will need based on if a family loss were to occur. 
-	Is it ok to be the owner of your own insurance policy?
-    It is recommended that either a spouse or beneficiary be the owner 
-	When is the best time to become a risky investor?
-   After learning the ropes of investing, would be a beneficial time to start to increase risk.
-	What is time-value of money?
-   Inflation causes funds to be worth more over time. A simple time value of money calculation determines how much funds will be worth in the future. 
-	What is the difference between corporate and personal finance?
-   Corporate finance deals with the analyzation and investment decisions of a business, and personal finance deals more with the one on one client meetings in hopes of conducting personal financial planning relationships. 
-	What are the components of personal financial planning?
-   Cash budgeting, income tax planning, insurance, investments, retirement planning, and estate planning. 
-	What is a key element to debt management?
-   To not finance assets longer than someone�s life. 
-	What is the first step in the financial planning process?
-   Establish and define the relationship 
-	 What is the difference between corporate and personal finance?
-   Corporate finance focuses more on investments and financing decisions in a company, while personal finance is more of a one on one relationship with clients in the hopes of creating a financial plan for life. 
-	 What is the declaration date?
-   The date in which a firm�s director announces a payment of a dividend. 
-	 What is discount interest?
-   Interest that is calculated on a face amount of a loan. 
-	 What is free cash flow (FCF)?
-   The cash flow available for distribution to all investors after the company or firm has made all investments in fixed assets. 
-	 What is gross profit margin?
-   The ratio between sales and cost of goods sold. 
-	 When is it appropriate to use liquidity ratios?
-   When analyzing the relationship between a firm�s cash and current assets. 
-	 What is a mortgage bond?
-   A bond where a company will pledge certain assets as security. 
-	 What is the par value?
-   The nominal or face value of a stock or bond. 
-	 What is sensitivity analysis?
-   Determines how much of net present value will change with different input values. 
-	 What are treasury bonds?
-   Bonds issued by the federal government. 
-	 What is a yield curve?
-   A curve developed by the plotting of maturity on y-axis, and the maturity is plotted on the x-axis. 
-	 What are the three types of arbitrages?
-   Locational, triangular, and covered interest. 
-	 What are capital markets?
-   Financial markets that facilitate the flow of long-term funds. 
-	 What is a currency swap?
-   An agreement that allows periodic swap of one currency of one currency for another at specified exchange rates. 
-	 What are debt securities?
-   Securities that represent credit provided to the initial issuer by the purchaser. 
-	 What is the federal loan mortgage amortization?
-   An organization that issues mortgage-backed securities and then uses the funds to purchase mortgages. 
-	 What is Gap?
-   Rate-sensitive assets must rate-sensitive liabilities. 
-	 What are interest rate futures?
-   Financial futures contracts on debt securities such as Treasury bills, bonds, or notes. 
-	 What are money markets?
-   Financial markets that the flow of short-term funds. 
-	 How does oil price affect a company?
-   It depends on the collections and payments of a company. The future oil price is far more important to consider, rather than the present price. 
-	 Is goodwill equivalent to brand value?
-   The goodwill is the price paid and the book value. 
-	 If WACC is applied a certain project, should it be the expected return, historical data, or an opportunity cost on similar projects?
-   Neither book values or market values are used. The values used are from current variations in the company. 
-	 Which taxes are used in the free cash flow (FCF)?
-   The hypothetical ones that would be used by a company if they didn�t have any debt. 
-	 What is the difference between the simple return and weighted return to shareholders?
-   The return that is stated on databases is the simple return, and the weighted return to shareholders is determined during a period of time in which the internal rate of return capitalization is at the beginning of the period. 
-	 What is a 3x1 stock split?
-   An operation in which you get three new shares for each shares you used to possess. 
-	 What is the impact of inflation on a company?
-   Inflation increases the uncertainty for a company and makes decision making a lot more difficult. 
-	 What is capital cash flow?
-   The cash flow that is available to all holders of securities of the company. 
-	 Is it better to buy shares of a company, or its assets?
-   The decision lies solely on the company�s fiscal well being, and the responsibility related to the value of asset holdings. 
-	 Why do a split?
-   It reduces the price of a share in order to increase liquidity. 
-	 Is it possible to use the same WACC when debt changes?
-   If the debt changes, in return the WACC will change as well. 
-	 Are there ways to analyze and value seasonal businesses?
-   The way to value these types of businesses is by analyzing their monthly data. There are not many links to seasonality having a high impact on company valuation.
+What is asset allocation?
+The best fitting area for your assets. Either a person is a moderate investor, aggressive, or conservative. Each of these will change the older one gets. 
+What is the human-value life approach in insurance?
+A method of calculating how much life insurance a family will need based on if a family loss were to occur. 
+Is it ok to be the owner of your own insurance policy?
+It is recommended that either a spouse or beneficiary be the owner 
+When is the best time to become a risky investor?
+After learning the ropes of investing, would be a beneficial time to start to increase risk.
+What is time-value of money?
+Inflation causes funds to be worth more over time. A simple time value of money calculation determines how much funds will be worth in the future. 
+What is the difference between corporate and personal finance?
+Corporate finance deals with the analyzation and investment decisions of a business, and personal finance deals more with the one on one client meetings in hopes of conducting personal financial planning relationships. 
+What are the components of personal financial planning?
+Cash budgeting, income tax planning, insurance, investments, retirement planning, and estate planning. 
+What is a key element to debt management?
+To not finance assets longer than someone�s life. 
+What is the first step in the financial planning process?
+Establish and define the relationship 
+What is the difference between corporate and personal finance?
+Corporate finance focuses more on investments and financing decisions in a company, while personal finance is more of a one on one relationship with clients in the hopes of creating a financial plan for life. 
+What is the declaration date?
+The date in which a firm�s director announces a payment of a dividend. 
+What is discount interest?
+Interest that is calculated on a face amount of a loan. 
+What is free cash flow (FCF)?
+The cash flow available for distribution to all investors after the company or firm has made all investments in fixed assets. 
+What is gross profit margin?
+The ratio between sales and cost of goods sold. 
+When is it appropriate to use liquidity ratios?
+When analyzing the relationship between a firm�s cash and current assets. 
+What is a mortgage bond?
+A bond where a company will pledge certain assets as security. 
+What is the par value?
+The nominal or face value of a stock or bond. 
+What is sensitivity analysis?
+Determines how much of net present value will change with different input values. 
+What are treasury bonds?
+Bonds issued by the federal government. 
+What is a yield curve?
+A curve developed by the plotting of maturity on y-axis, and the maturity is plotted on the x-axis. 
+What are the three types of arbitrages?
+Locational, triangular, and covered interest. 
+What are capital markets?
+Financial markets that facilitate the flow of long-term funds. 
+What is a currency swap?
+An agreement that allows periodic swap of one currency of one currency for another at specified exchange rates. 
+What are debt securities?
+Securities that represent credit provided to the initial issuer by the purchaser. 
+What is the federal loan mortgage amortization?
+An organization that issues mortgage-backed securities and then uses the funds to purchase mortgages. 
+What is Gap?
+Rate-sensitive assets must rate-sensitive liabilities. 
+What are interest rate futures?
+Financial futures contracts on debt securities such as Treasury bills, bonds, or notes. 
+What are money markets?
+Financial markets that the flow of short-term funds. 
+How does oil price affect a company?
+It depends on the collections and payments of a company. The future oil price is far more important to consider, rather than the present price. 
+Is goodwill equivalent to brand value?
+The goodwill is the price paid and the book value. 
+If WACC is applied a certain project, should it be the expected return, historical data, or an opportunity cost on similar projects?
+Neither book values or market values are used. The values used are from current variations in the company. 
+Which taxes are used in the free cash flow (FCF)?
+The hypothetical ones that would be used by a company if they didn�t have any debt. 
+What is the difference between the simple return and weighted return to shareholders?
+The return that is stated on databases is the simple return, and the weighted return to shareholders is determined during a period of time in which the internal rate of return capitalization is at the beginning of the period. 
+What is a 3x1 stock split?
+An operation in which you get three new shares for each shares you used to possess. 
+What is the impact of inflation on a company?
+Inflation increases the uncertainty for a company and makes decision making a lot more difficult. 
+What is capital cash flow?
+The cash flow that is available to all holders of securities of the company. 
+Is it better to buy shares of a company, or its assets?
+The decision lies solely on the company�s fiscal well being, and the responsibility related to the value of asset holdings. 
+Why do a split?
+It reduces the price of a share in order to increase liquidity. 
+Is it possible to use the same WACC when debt changes?
+If the debt changes, in return the WACC will change as well. 
+Are there ways to analyze and value seasonal businesses?
+The way to value these types of businesses is by analyzing their monthly data. There are not many links to seasonality having a high impact on company valuation.
 What is an option?
 The right to buy or sell stock at a specified price in the future.
 What is the different between American and European options?
@@ -260,7 +260,7 @@ What is the option writer's relationship with the option?
 Opposite of the buyer's action and profit.
 What is a callable option?
 A company has the right to buy back stock.
- Is callable or putable riskier?
+Is callable or putable riskier?
 Callable will have a higher interest with greater risk. 
 What is a convertible option?
 Buying a bond with the option to turn it into stock.
@@ -318,88 +318,86 @@ What is a bond?
 Issued by companies, states and governments to help finance activities. 
 What is a mutual fund?
 A pool of investments (portfolio) created by a money manager by placing money into a variety of different investment types.
-1.	 Q: What is the difference between a call option and a put option?
-	A: A call option gives you the right to buy a specified asset at a specified price on or before a particular date while a put option gives you the right to sell a specified asset at a specified price on or before a particular date.  
-2.	 Q: Who is the market maker?
-	A: A dealer in securities or other assets who undertakes to buy or sell at specified prices at all times.  
-3.	 Q: What is margin?    
-	A: Deposit an amount of money with a broker as security (for an account or transaction).  
-4.	 Q:  What stock has the biggest effect on the index?
-	A: The stock with the biggest value.
-5.	 Q:  How do you sell stock short?
-	A: You sell stock you don�t own.
-6.	 Q:  What is the formula for margin percentage?
-	A: Equity/Market Value
-7.	 Q:  What are the three different kinds of traders in the market?
-	A:  Informed, Liquidity, and Noise traders.  
-8.	 Q:  What is an ETF?
-	A:  Open-end funds that are passively managed.
-9.	 Q:  What happens when you exercise a warrant?
-	A:  When warrants are exercised, it increases the number of outstanding shares, when you exercise this, the stock price declines.  
-10.	 Q:  What is the premium?
-	A:  The purchase price of an option.  
-11.  	 Q:  What does it mean when an option is in the money?
-	A:  When its exercise would produce profits for its holder.  
-12.  	 Q:  What does it mean when an option is out of the money?
-	A: When its exercise would be unprofitable.
-13.  	 Q:  What does it mean when an option is at the money?
-	A:  When the exercise price and asset price are equal.  
-14.  	 Q:  What is an American option?
-	A:  An American option allows its holder to exercise the right to purchase (if a call) or sell (if a put) the underlying asset on or before the expiration date.  
-15. 	 Q:  What is an European option?
-	A:  An European option allows for the exercise of the option only on the expiration date.  
-16. 	 Q:  What is a covered call?
-	A:  A covered call position is the purchase of a share of stock with a simultaneous sale of a call on that stock.  
-17.  	 Q:  What is a straddle?
-	A:  A long straddle is established by buying both a call and a put on a stock, each with the same exercise price, X, and the same expiration date, T.  
-18.  	 Q:  What is a spread?
-	A:  A spread is a combination of two or more call options (or two or more puts) on the same stock with differing exercise prices or times to maturity.  
-19.  	 Q:  What is a collar?
-	A:  A collar is an options strategy that brackets the value of a portfolio between two bounds. 
-20,  	 Q:  What is a warrant?  
-	A:  Warrants are essentially call options issued by a firm.  
-21.  	 Q:  What is intrinsic value?
-	A:  It is the payoff that could be obtained by immediate exercise of in-the-money call options.  
-22.  	 Q:  What is the time value of an option?  
-	A:  The difference between the actual call price and the intrinsic value is commonly called the time value of the option.  
-23. 	 Q:  What is the implied volatility of an option?  
-	A:  The volatility level for the stock implied by the option price.
-24.  	 Q:  What is the pseudo-American call option value?  
-	A:  It is the maximum  of the value derived by assuming that the option will be held until expiration and the value derived by assuming that the option will be held until expiration and the value derived by assuming that the option will be exercised just before an ex-dividend date.  
-25.  	 Q:  What is an option's hedge ratio?
-	A:  It is the change in the price of an option for a $1 increase in the stock price.  
-26. 	 Q:  What is option elasticity?
-	A:  It is the percentage change in option price per percentage change in stock price.  
-27.  	 Q:  What is portfolio insurance?
-	A:  It is to limit the worst-case portfolio rate of return.  
-28.  	 Q:  What is gamma?
-	A:  It is the sensitivity of the delta to the stock price.  
-29.  	 Q:  What does it mean if your portfolio is delta neutral?  
-	A:  This means that the portfolio has no tendency to either increase or decrease in value when the stock price flucuates.  
-30.  	 Q:  What is volatility risk?  
-	A:  It is the risk incurred from unpredictable changes in volatility.  
-31. 	 Q:   What is a futures contract?
-	A:  It is an agreement traded on an organized exchange to buy or sell assets, especially commodities or shares, at a fixed price but to be delivered and paid for later.  
-32. 	 Q:   What is an open-end fund?
-	A:  Open-end funds stand ready to redeem or issue shares at their net asset value (although both purchases and redemptions may involve sales charges).  
-	
-33. 	 Q:  What are closed-end funds?  
-	A:  Closed-end funds do not redeem or issue shares.  
-34.  	 Q:  What are unit investment trusts?  
-	A:  Unit investment trusts are pools of money invested in a portfolio that is fixed for the life of the fund.  
-35.  	 Q:  What are hedge funds?
-	A:  Hedge funds are vehicles that allow private investors to pool assets to be invested by a fund manager.  
-36.  	 Q:  What is a stop order?
-	A:  A stop order is when the trade is not to be executed unless the stock hits a price limit.
-37. 	 Q:  What is a short sale?  
-	A:  A short sale allows investors to profit from a decline in a security's price.  
-38.  	 Q:  What is inside information?  
-	A:  Inside information is private information held by officers, directors, or major stockholders that has not yet been divulged to the public.  
-39.   	 Q:  What is a program trade?  
-	A:  A program trade is a coordinated purchase or sale of an entire portfolio of stocks.  
-40.   	 Q:  What is an auction market?
-	A:  An auction market is a market in which all traders converge at one place (either physically or "electronically") to buy or sell an asset.
-	1. What is a financial market and what is its role?
+ What is the difference between a call option and a put option?
+A call option gives you the right to buy a specified asset at a specified price on or before a particular date while a put option gives you the right to sell a specified asset at a specified price on or before a particular date.  
+Who is the market maker?
+A dealer in securities or other assets who undertakes to buy or sell at specified prices at all times.  
+What is margin?    
+Deposit an amount of money with a broker as security (for an account or transaction).  
+What stock has the biggest effect on the index?
+The stock with the biggest value.
+How do you sell stock short?
+You sell stock you don't own.
+What is the formula for margin percentage?
+Equity/Market Value
+What are the three different kinds of traders in the market?
+Informed, Liquidity, and Noise traders.  
+What is an ETF?
+Open-end funds that are passively managed.
+What happens when you exercise a warrant?
+When warrants are exercised, it increases the number of outstanding shares, when you exercise this, the stock price declines.  
+What is the premium?
+The purchase price of an option.  
+What does it mean when an option is in the money?
+When its exercise would produce profits for its holder.  
+What does it mean when an option is out of the money?
+When its exercise would be unprofitable.
+What does it mean when an option is at the money?
+When the exercise price and asset price are equal.  
+What is an American option?
+An American option allows its holder to exercise the right to purchase (if a call) or sell (if a put) the underlying asset on or before the expiration datWhat is an European option?
+An European option allows for the exercise of the option only on the expiration date.  
+What is a covered call?
+A covered call position is the purchase of a share of stock with a simultaneous sale of a call on that stock.  
+What is a straddle?
+A long straddle is established by buying both a call and a put on a stock, each with the same exercise price, X, and the same expiration date, T.  
+What is a spread?
+A spread is a combination of two or more call options (or two or more puts) on the same stock with differing exercise prices or times to maturity.  
+What is a collar?
+A collar is an options strategy that brackets the value of a portfolio between two bounds. 
+What is a warrant?  
+Warrants are essentially call options issued by a firm.  
+What is intrinsic value?
+It is the payoff that could be obtained by immediate exercise of in-the-money call options.  
+What is the time value of an option?  
+The difference between the actual call price and the intrinsic value is commonly called the time value of the option.  
+What is the implied volatility of an option?  
+The volatility level for the stock implied by the option price.
+What is the pseudo-American call option value?  
+It is the maximum  of the value derived by assuming that the option will be held until expiration and the value derived by assuming that the option will be held until expiration and the value derived by assuming that the option will be exercised just before an ex-dividend date.  
+What is an option's hedge ratio?
+It is the change in the price of an option for a $1 increase in the stock price.  
+What is option elasticity?
+It is the percentage change in option price per percentage change in stock price.  
+What is portfolio insurance?
+ It is to limit the worst-case portfolio rate of return.  
+What is gamma?
+It is the sensitivity of the delta to the stock price.  
+What does it mean if your portfolio is delta neutral?  
+This means that the portfolio has no tendency to either increase or decrease in value when the stock price flucuates.  
+What is volatility risk?  
+It is the risk incurred from unpredictable changes in volatility.  
+What is a futures contract?
+It is an agreement traded on an organized exchange to buy or sell assets, especially commodities or shares, at a fixed price but to be delivered and paid for later.  
+What is an open-end fund?
+Open-end funds stand ready to redeem or issue shares at their net asset value (although both purchases and redemptions may involve sales charges).  
+What are closed-end funds?  
+Closed-end funds do not redeem or issue shares.  
+What are unit investment trusts?  
+Unit investment trusts are pools of money invested in a portfolio that is fixed for the life of the fund.  
+What are hedge funds?
+Hedge funds are vehicles that allow private investors to pool assets to be invested by a fund manager.  
+What is a stop order?
+A stop order is when the trade is not to be executed unless the stock hits a price limit.
+What is a short sale?  
+A short sale allows investors to profit from a decline in a security's price.  
+What is inside information?  
+Inside information is private information held by officers, directors, or major stockholders that has not yet been divulged to the public.  
+What is a program trade?  
+A program trade is a coordinated purchase or sale of an entire portfolio of stocks.  
+What is an auction market?
+An auction market is a market in which all traders converge at one place (either physically or "electronically") to buy or sell an asset.
+1. What is a financial market and what is its role?
 A financial market is term used to describe a marketplace where buyers and sellers participate in the trade of assets such as equities, bonds, currencies, and derivatives. 
 2. What are the maturities of a T-bill, notes, and bonds?
 T-bills = less than 1 year, notes = 1-10 years, bonds = greater than 10 years
@@ -425,7 +423,7 @@ It's a loan arrangement that requires the borrower to put up collateral to guara
 Basically, a call option issued by a firm.
 13. What is portfolio insurance?
 a method of hedging a portfolio of stocks against the market risk by short selling stock index futures.
-   
+
 14. What is the volatility risk of a stock?
 It is risk that is incurred from unpredictable changes in volatility.  
 15. The futures contracts call for delivery of a commodity at a specified delivery or maturity date, for an agreed-upon price called?
@@ -442,7 +440,7 @@ Are like options in that they specify purchase or sale of some underlying securi
 It is the difference between the futures price and the spot price. 
 21. What is a basic investment?
 It's a current commitment of money or other resources in the expectation of reaping future benefits.
- 
+
 22. Distinguish the difference between real assets and financial assets?
 Real assets are land, buildings, machines, and knowledge that can be used to produce goods and services and financial assets are securities that are no more than sheets of paper or, computer entries and do not contribute directly to the productive capacity of the economy. 
 23. What is equity in a firm represent?
@@ -488,7 +486,7 @@ A residual claim to get anything left over
 What is a derivative security?
 A contingent claim; value is derived from something else
 What is consumption timing?
- trying to spread consumption over a period of time
+trying to spread consumption over a period of time
 What is financial engineering?
 Trading constructed to provide specific payoff 
 What is the definition of cash?
@@ -726,11 +724,11 @@ A contingent claim gives you the right not not the obligation to buy/sell.
 What is a stock?
 Stock is ownership in a company. 
 What is a bond? 
- A bond is a debt obligation with promise of repayment sometime in the future. 
+A bond is a debt obligation with promise of repayment sometime in the future. 
 What is a dividend?
 A dividend is a payment to stockholders from gains or reserves of a company.  
 What is a financial asset?
- Financial assets are claims to the real assets of a firm and claims to the income of real assets.
+Financial assets are claims to the real assets of a firm and claims to the income of real assets.
 What is a derivative security? 
 A derivative is security that derives its value from another asset. 
 What do financial markets do?
@@ -815,7 +813,7 @@ What is a call option?
 A call option is the right to buy an asset at a specified exercise price on or before a specified expiration date.
 What is a dealer�s market?
 A market where traders specializing in particular commodities buy and sell assets for their own accounts. Example over the counter market.
- When did options start to sell in the U.S.?
+When did options start to sell in the U.S.?
 Options started selling in the United States in 1973.
 When is an option considered �in the money�? 
 An option is considered �in the money� when its intrinsic value is greater than 0.
@@ -964,85 +962,85 @@ Less liquid debt yields higher interest rates
 What is the effect of tax status on interest rates?
 An increase in tax status increases interest rates
 1. Q - What is an investment?
-   A - The current commitment of money or another resource in the expectation of receiving benefits in the future.
+A - The current commitment of money or another resource in the expectation of receiving benefits in the future.
 2. Q - What are examples of real assets?
-   A - Machines, land, buildings, knowledge, etc.
+A - Machines, land, buildings, knowledge, etc.
 3. Q - What is a derivative security?
-   A - A security that derives its value from something else, such as another security.
+A - A security that derives its value from something else, such as another security.
 4. Q - What do free markets do?
-   A - Free markets take infomration and put it into prices, which affects your behavior, thus organizing the way our society functions.
+A - Free markets take infomration and put it into prices, which affects your behavior, thus organizing the way our society functions.
 5. Q - What do efficient markets do?
-   A - Efficient markets quickly and accurately incorporate information into the market.
+A - Efficient markets quickly and accurately incorporate information into the market.
 6. Q - What do inefficient markets do?
-   A - Inefficient markets slowly incorporate, or overshoot, information into the market.
+A - Inefficient markets slowly incorporate, or overshoot, information into the market.
 7. Q - How do we measure risk?
-   A - We may measure risk by using volatility, standard deviation, beta, etc.
+A - We may measure risk by using volatility, standard deviation, beta, etc.
 8. Q - Which stocks have the greatest affect on the price weighted index?
-   A - The stocks with the highest price have the greatest affect on the price weighted index.
+A - The stocks with the highest price have the greatest affect on the price weighted index.
 9. Q - What is a disadvantage of the market order?
-   A - If you are buying a lot, you will climb the price ladder, and as people notice this they will start raising their prices.
+A - If you are buying a lot, you will climb the price ladder, and as people notice this they will start raising their prices.
 10. Q - What do limit orders do to the market?
-    A - Limit orders provide liquidity to the market.
+A - Limit orders provide liquidity to the market.
 11. Q - What do market orders do to the market?
-    A - Market orders take liquidity from the market.
+A - Market orders take liquidity from the market.
 12. Q - Why will a broker set a maintenance margin?
-    A - A broker sets a maintenance margin at some point to fundamentally guarantee that they will always close you out in a position where you can still pay back your loan.
+A - A broker sets a maintenance margin at some point to fundamentally guarantee that they will always close you out in a position where you can still pay back your loan.
 13. Q - What is a margin account used for?
-    A - A margin account is used so you can buy or sell stock through your broker.
+A - A margin account is used so you can buy or sell stock through your broker.
 14. Q - What is an option?
-    A - An option is a contract that gives the owner of an option the right, but not the obligation, to buy or sell an asset at a set strike, or exercise, price on or before expiration.
+A - An option is a contract that gives the owner of an option the right, but not the obligation, to buy or sell an asset at a set strike, or exercise, price on or before expiration.
 15. Q - What does a call option give the owner?
-    A - A call option gives the owner the right to buy an asset at a set strike, or exercise, price on or before expiration.
+A - A call option gives the owner the right to buy an asset at a set strike, or exercise, price on or before expiration.
 16. Q - What does a call option give the writer?
-    A - A call option makes the writer obligated to sell an asset at a set strike, or exercise, price on or before expiration.
+A - A call option makes the writer obligated to sell an asset at a set strike, or exercise, price on or before expiration.
 17. Q - What does a put option give the owner?
-    A - A put option gives the owner the right to sell an asset at a set strike, or exercise, price on or before expiration.
+A - A put option gives the owner the right to sell an asset at a set strike, or exercise, price on or before expiration.
 18. Q - What does a put option give the writer?
-    A - A put option makes the writer obligated to buy an asset at a set strike, or exercise, price on or before expiration.
+A - A put option makes the writer obligated to buy an asset at a set strike, or exercise, price on or before expiration.
 19. Q - What type of option will be lower on higher dividend-paying stocks?
-    A - A call option will be lower on higher dividend-paying stocks.
+A - A call option will be lower on higher dividend-paying stocks.
 20. Q - What type of option will be higher on higher dividend-paying stocks?
-    A - A put option will be higher on higher dividend-paying stocks.
+A - A put option will be higher on higher dividend-paying stocks.
 21. Q - What does a convertible bond allow you to do?
-    A - A convertible bond gives you the option to convert a bond into stock.
+A - A convertible bond gives you the option to convert a bond into stock.
 22. Q - What is a collateralized loan?
-    A - A collateralized loan is a loan backed by collateral, which acts as security if one defaults on the loan.
+A - A collateralized loan is a loan backed by collateral, which acts as security if one defaults on the loan.
 23. Q - What is diversification?
-    A - Diversification involves putting components together to lesson risk.
+A - Diversification involves putting components together to lesson risk.
 24. Q - What are forwards traded on?
-    A - Forwards are traded OTC (over the counter).
+A - Forwards are traded OTC (over the counter).
 25. Q - What are futures traded on?
-    A - Futures are traded on exchange.
+A - Futures are traded on exchange.
 26. Q - What is open interest?
-    A - Open interest is the number of contracts in existence.
+A - Open interest is the number of contracts in existence.
 27. Q - What is cross-hedging?
-    A - In cross-hedging, the asset to be hedged is different than the hedge vehicle.
+A - In cross-hedging, the asset to be hedged is different than the hedge vehicle.
 28. Q - What is basis risk?
-    A - Basis risk is the risk associated with the spread between a spot price and a futures price, and the uncertain movements within said spread.
+A - Basis risk is the risk associated with the spread between a spot price and a futures price, and the uncertain movements within said spread.
 29. Q - What is the basis?
-    A - The basis is the difference between the spot price and the futures price.
+A - The basis is the difference between the spot price and the futures price.
 30. Q - When will a long spot-short futures position profit?
-    A - It will profit when the basis narrows.
+A - It will profit when the basis narrows.
 31. Q - If the risk-free rate is larger than the dividend yield, will the futures price be higher or lower on longer-maturity contracts?
-    A - The futures price will be higher on longer-maturity contracts.
+A - The futures price will be higher on longer-maturity contracts.
 32. Q - What occurs in late trading?
-    A - Mutual fund traders would allow people to trade after the close but at the close price.
+A - Mutual fund traders would allow people to trade after the close but at the close price.
 33. Q - Why are mutual funds limited as to what they can buy?
-    A - Mutual funds are regulated by the SEC.
+A - Mutual funds are regulated by the SEC.
 34. Q - What do informed traders know?
-    A - Informed traders know something that the market does not.
+A - Informed traders know something that the market does not.
 35. Q - Why do liquidity traders trade?
-    A - Liquidity traders trade for their own personal reasons, whether it be to invest or realize gains.
+A - Liquidity traders trade for their own personal reasons, whether it be to invest or realize gains.
 36. Q - Who are noise traders?
-    A - Noise traders are traders that think they are informed but in reality they no nothing more about the market than anyone else.
+A - Noise traders are traders that think they are informed but in reality they no nothing more about the market than anyone else.
 37. Q - How can market makers make more money?
-    A - To make more money, market makers must get noise traders to trade more by making them think they are more informed.
+A - To make more money, market makers must get noise traders to trade more by making them think they are more informed.
 38. Q - Who do market makers always lose to?
-    A - Market makers always lose to informed traders.
+A - Market makers always lose to informed traders.
 39. Q - What do open-end funds always trade for?
-    A - Open-end funds always trade for net asset value.
+A - Open-end funds always trade for net asset value.
 40. Q - What are closed-end funds generally traded for?
-    A - Closed-end funds generally trade for a discount.
+A - Closed-end funds generally trade for a discount.
 What are debt securities?
 A fixed stream of income.
 How does the free market dictate how a consumer behaves?
@@ -1571,11 +1569,11 @@ What type of traders always makes a profit?
 Informed traders
 What type of traders always loses money?
 Noise traders
- Are hedge funds regulated by the SEC?
+Are hedge funds regulated by the SEC?
 No
 What are fiduciary obligated to do?
 They legally must do whatever is in the best interest of their investors.
- What is a call option?
+What is a call option?
 An option that gives the owner the right to buy a security at a fixed price on or before the specified date.
 What is a put option?
 An option that gives the owner the right to sell something at a set price on or before the specified date.
@@ -1609,7 +1607,7 @@ If inflation in the United States increases how does it affect the current accou
 It causes the current account to decrease.
 What does the World Bank do?
 Provides loans to developing countries if they agree to implement the policies that the World Bank recommends.
- What is the agency problem?
+What is the agency problem?
 The agent (CEO) does things that 
 What did the Sarbanes-Oxley Act of 2002 do?
 Increased the financial disclosure and accounting regulations that corporations must.
@@ -1619,7 +1617,7 @@ What is a perpetuity?
 A series of cash flows that don�t have an ending.
 What is an indenture?
 Secured debt that is backed by an asset that can be seized if the loan defaults. 
- What is a debenture?
+What is a debenture?
 Unsecured debt
 What is systematic risk?
 Risk that is inherent to the market and is undiversifiable.
@@ -1747,7 +1745,7 @@ What is financial engineering?
 replicating securities with specific characteristics
 What is a limit order?
 specifies a price at which an investor is willing to buy or sell a security
-	
+
 What is a stop order?
 trades are not executed unless the security reaches a certain price
 What is a stop-loss order?
@@ -2125,85 +2123,85 @@ The exercise price
 What is a hedge ratio commonly known as?
 Delta
 What is gross pay?
- The total amount of your earnings before deductions are taken out.
+The total amount of your earnings before deductions are taken out.
 What is net pay?
- The amount you receive in your paycheck after deductions are taken out.
+The amount you receive in your paycheck after deductions are taken out.
 What is interest?
- A fee paid for the opportunity to use someone else's money.
+A fee paid for the opportunity to use someone else's money.
 What does it mean to reconcile?
- To bring a bank statement and your own record of transactions into agreement.
+To bring a bank statement and your own record of transactions into agreement.
 What is a money market account?
- A type of savings account that pays a higher interest rate because financial institution invests the money you deposit.
+A type of savings account that pays a higher interest rate because financial institution invests the money you deposit.
 What is a deductible?
- A set amount that the holder of an insurance policy must pay for each loss before the insurance company pays out.
+A set amount that the holder of an insurance policy must pay for each loss before the insurance company pays out.
 The act of investing is?
- Committing money in the hope that it will make money over time.
+Committing money in the hope that it will make money over time.
 What is a certificate of deposit (CD)?
- An investment in which you deposit money with a financial institution for a specified period and receive an agreed-upon interest rate in return.
+An investment in which you deposit money with a financial institution for a specified period and receive an agreed-upon interest rate in return.
 What are bonds?
- Certificates of a debt; a type of investment.
+Certificates of a debt; a type of investment.
 What is stock?
- Ownership interest in a company; a type of investment.
+Ownership interest in a company; a type of investment.
 What are mutual funds?
- A group of investments held in common by many individual investors.
+A group of investments held in common by many individual investors.
 What is a 401(K) plan?
- A type of retirement in which deductions are made from the employee�s paycheck.
+A type of retirement in which deductions are made from the employee�s paycheck.
 What does it mean to be at-the-money?
- An option whose exercise price is equal to the current market price of the underlying security. An ATM option may or may not have intrinsic value.
+An option whose exercise price is equal to the current market price of the underlying security. An ATM option may or may not have intrinsic value.
 What is an automatic exercise?
- Procedure used by the options clearing corporation to exercise in-the-money options at expiration. (75 cents or more)
+Procedure used by the options clearing corporation to exercise in-the-money options at expiration. (75 cents or more)
 What is a back-spread?
- A delta-neutral spread composed of more long options than short options on the same underlying instrument. This position generally profits from a large movement in either direction in the underlying instrument.
+A delta-neutral spread composed of more long options than short options on the same underlying instrument. This position generally profits from a large movement in either direction in the underlying instrument.
 What is a bear spread?
- A strategy involving two or more options of the same type that will profit from a decline in the underlying stock. Consists of buying an option with a higher strike and selling an option with a lower strike. The maximum risk will be realized if the underlying stock rises in price.
+A strategy involving two or more options of the same type that will profit from a decline in the underlying stock. Consists of buying an option with a higher strike and selling an option with a lower strike. The maximum risk will be realized if the underlying stock rises in price.
 What is the bid price?
- The highest price a dealer is willing to pay for a security at a certain time.
+The highest price a dealer is willing to pay for a security at a certain time.
 What is the black-scholes option pricing model?
- The black-scholes option pricing model is used to calculate a theoretical value for an option using current stock prices, expected dividends, the option's strike price, expected interest rates , time to expiration, and expected stock volatility.
+The black-scholes option pricing model is used to calculate a theoretical value for an option using current stock prices, expected dividends, the option's strike price, expected interest rates , time to expiration, and expected stock volatility.
 What is a box spread?
- A four-sided option spread that involves a long call and a short put at one strike price as well as a short call and a long put at another strike price. (buying 1 LMN Jan 50 call, and writing 1 LMN Jan 55 call; simultaneously buying 1 LMN Jan 55 put, and writing 1 Jan 50 put)
+A four-sided option spread that involves a long call and a short put at one strike price as well as a short call and a long put at another strike price. (buying 1 LMN Jan 50 call, and writing 1 LMN Jan 55 call; simultaneously buying 1 LMN Jan 55 put, and writing 1 Jan 50 put)
 What is/are the break-even point(s)?
- The stock price(s) at which an option strategy results in neither a profit nor a loss.
+The stock price(s) at which an option strategy results in neither a profit nor a loss.
 What is a broker?
- An agent who facilitates trades between a buyer and a seller and receives a commission for services.
+An agent who facilitates trades between a buyer and a seller and receives a commission for services.
 How does a bull spread work?
- A bull spread is a strategy involving two or more options of the same type (or options combined with an underlying stock position) that will profit from a rise in the price of the underlying stock. Consists or selling an option with a higher strike, and buying an option with a lower strike. The maximum risk will be realized if the underlying stock falls in price.
+A bull spread is a strategy involving two or more options of the same type (or options combined with an underlying stock position) that will profit from a rise in the price of the underlying stock. Consists or selling an option with a higher strike, and buying an option with a lower strike. The maximum risk will be realized if the underlying stock falls in price.
 What is a butterfly spread?
- A strategy involving four options of the same type that span three strike prices. The strategy has both limited risk and limited profit potential.
+A strategy involving four options of the same type that span three strike prices. The strategy has both limited risk and limited profit potential.
 What is a call option?
- A contract between a buyer and seller whereby the buyer acquires the right, but not the obligation, to buy a specified underlying instrument at a fixed price on or before a specified date.
- What is the Chicago Board Options Exchange (CBOE)?
- The largest and oldest listed options exchange.
+A contract between a buyer and seller whereby the buyer acquires the right, but not the obligation, to buy a specified underlying instrument at a fixed price on or before a specified date.
+What is the Chicago Board Options Exchange (CBOE)?
+The largest and oldest listed options exchange.
 What does a clearinghouse do?
- A clearinghouse is a facility that compares and reconciles both sides of a trade in addition to receiving and delivering payments and securities.
+A clearinghouse is a facility that compares and reconciles both sides of a trade in addition to receiving and delivering payments and securities.
 What is a collar?
- An option strategy that involves an out-of-the-money call and an out-of-the-money put. This is normally used as a long stock protective strategy when the call is sold and the put is purchased. The opposite of this strategy, called a "fence," could be applied as a protective measure in a short stock position.
+An option strategy that involves an out-of-the-money call and an out-of-the-money put. This is normally used as a long stock protective strategy when the call is sold and the put is purchased. The opposite of this strategy, called a "fence," could be applied as a protective measure in a short stock position.
 What is a contract size in an option?
- The number of underlying shares covered by one option contract. (100 shares for one equity option)
+The number of underlying shares covered by one option contract. (100 shares for one equity option)
 What is a covered call?
- An option strategy in which call options are sold against equivalent amounts of long stock. 
+An option strategy in which call options are sold against equivalent amounts of long stock. 
 What is a credit spread?
- The difference in the premium prices of two options, where the credit premium of the one sold exceeds the debit premium of the one purchased. A bull spread with puts and a bear spread with calls are examples of credit spreads.
+The difference in the premium prices of two options, where the credit premium of the one sold exceeds the debit premium of the one purchased. A bull spread with puts and a bear spread with calls are examples of credit spreads.
 What is delta?
- The sensitivity (rate of change) of an option's theoretical value (assessed value) for a one dollar change in price of the underlying instrument. Expressed as a percentage, it represents an equivalent amount of underlying at a given moment in time. Calls have positive deltas; puts have negative deltas.
+The sensitivity (rate of change) of an option's theoretical value (assessed value) for a one dollar change in price of the underlying instrument. Expressed as a percentage, it represents an equivalent amount of underlying at a given moment in time. Calls have positive deltas; puts have negative deltas.
 What is an equity option?
- An option on shares of an individual common stock.
+An option on shares of an individual common stock.
 What does it mean to exercise an option?
- Process by which the holder of an option notifies the seller of intention to take delivery of the underlying in the case of a call, or make delivery in the case of a put, at the specified exercise price.
+Process by which the holder of an option notifies the seller of intention to take delivery of the underlying in the case of a call, or make delivery in the case of a put, at the specified exercise price.
 What is an expiration date?
- The date on which an option and the right to exercise it cease to exist. Listed stock options expire the Saturday following the third Friday of every month.
- What is extrinsic value for an option?
- The price of an option less its intrinsic value. The entire premium of an out-of-the-money option consists of extrinsic value. This is often referred to as the time value portion of option premiums.
+The date on which an option and the right to exercise it cease to exist. Listed stock options expire the Saturday following the third Friday of every month.
+What is extrinsic value for an option?
+The price of an option less its intrinsic value. The entire premium of an out-of-the-money option consists of extrinsic value. This is often referred to as the time value portion of option premiums.
 What is a future contract?
- A contract to buy or sell a predetermined Quantity of a commodity or financial product for a specific price on a given date.
+A contract to buy or sell a predetermined Quantity of a commodity or financial product for a specific price on a given date.
 What does gamma represent?
- The sensitivity of an option's delta at a given moment in time. It is the change in delta with respect to a 1-point change in the underlying. 
+The sensitivity of an option's delta at a given moment in time. It is the change in delta with respect to a 1-point change in the underlying. 
 What is arbitrage?
- A trading technique that involves the simultaneous purchase and sale of identical assets traded on two different exchanges with the intention of profiting by a difference in price between exchanges.
+A trading technique that involves the simultaneous purchase and sale of identical assets traded on two different exchanges with the intention of profiting by a difference in price between exchanges.
 What is a crack spread?
- A crack spread is used in futures trading to show the difference between the price of crude oil, petroleum, and heating oil.
+A crack spread is used in futures trading to show the difference between the price of crude oil, petroleum, and heating oil.
 What does in-the- money mean?
-  In-the-money means that the option's strike price is equal to the underlying asset.
+In-the-money means that the option's strike price is equal to the underlying asset.
 How do you calculate margin
 take equity divided by market value
 What is the maintenance margin
