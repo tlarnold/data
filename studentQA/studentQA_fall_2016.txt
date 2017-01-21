@@ -173,13 +173,13 @@ Corporate finance deals with the analyzation and investment decisions of a busin
 What are the components of personal financial planning?
 Cash budgeting, income tax planning, insurance, investments, retirement planning, and estate planning. 
 What is a key element to debt management?
-To not finance assets longer than someone�s life. 
+To not finance assets longer than someone's life. 
 What is the first step in the financial planning process?
 Establish and define the relationship 
 What is the difference between corporate and personal finance?
 Corporate finance focuses more on investments and financing decisions in a company, while personal finance is more of a one on one relationship with clients in the hopes of creating a financial plan for life. 
 What is the declaration date?
-The date in which a firm�s director announces a payment of a dividend. 
+The date in which a firm's director announces a payment of a dividend. 
 What is discount interest?
 Interest that is calculated on a face amount of a loan. 
 What is free cash flow (FCF)?
@@ -187,7 +187,7 @@ The cash flow available for distribution to all investors after the company or f
 What is gross profit margin?
 The ratio between sales and cost of goods sold. 
 When is it appropriate to use liquidity ratios?
-When analyzing the relationship between a firm�s cash and current assets. 
+When analyzing the relationship between a firm's cash and current assets. 
 What is a mortgage bond?
 A bond where a company will pledge certain assets as security. 
 What is the par value?
@@ -221,7 +221,7 @@ The goodwill is the price paid and the book value.
 If WACC is applied a certain project, should it be the expected return, historical data, or an opportunity cost on similar projects?
 Neither book values or market values are used. The values used are from current variations in the company. 
 Which taxes are used in the free cash flow (FCF)?
-The hypothetical ones that would be used by a company if they didn�t have any debt. 
+The hypothetical ones that would be used by a company if they didn't have any debt. 
 What is the difference between the simple return and weighted return to shareholders?
 The return that is stated on databases is the simple return, and the weighted return to shareholders is determined during a period of time in which the internal rate of return capitalization is at the beginning of the period. 
 What is a 3x1 stock split?
@@ -231,7 +231,7 @@ Inflation increases the uncertainty for a company and makes decision making a lo
 What is capital cash flow?
 The cash flow that is available to all holders of securities of the company. 
 Is it better to buy shares of a company, or its assets?
-The decision lies solely on the company�s fiscal well being, and the responsibility related to the value of asset holdings. 
+The decision lies solely on the company's fiscal well being, and the responsibility related to the value of asset holdings. 
 Why do a split?
 It reduces the price of a share in order to increase liquidity. 
 Is it possible to use the same WACC when debt changes?
@@ -417,67 +417,65 @@ Describe the put-call parity theorem.
 Defines the relationship between the price of a European call option and European put option, both with identical stock price and expiration dates. 
 What is a callable bond?
 A callable bond arrangement is the sale of a straight bond to the investor and the concurrent insurance of a call option by the investor to the bond-issuing firm. 
- Describe a collateralized loan.
+Describe a collateralized loan.
 It's a loan arrangement that requires the borrower to put up collateral to guarantee that the loan will be paid back.
- Describe a warrant.
+Describe a warrant.
 Basically, a call option issued by a firm.
- What is portfolio insurance?
+What is portfolio insurance?
 a method of hedging a portfolio of stocks against the market risk by short selling stock index futures.
-
- What is the volatility risk of a stock?
+What is the volatility risk of a stock?
 It is risk that is incurred from unpredictable changes in volatility.  
- The futures contracts call for delivery of a commodity at a specified delivery or maturity date, for an agreed-upon price called?
+The futures contracts call for delivery of a commodity at a specified delivery or maturity date, for an agreed-upon price called?
 Futures price
- What is the maintenance margin?
+What is the maintenance margin?
 If a trader accrues sustained losses from daily marking to market, the margin account may fall below a critical value called a maintenance margin.
- What is the Black Scholes Model?
+What is the Black Scholes Model?
 a model of price variation over time of financial instruments such as stocks that can, among other things, be used to determine the price of a European option. 
- What is the Monte Carlo simulation?
+What is the Monte Carlo simulation?
 it is used to model the probability of different outcomes in a process that cannot easily be predicted due to the intervention of random variables. 
- What are futures and forward contracts?
+What are futures and forward contracts?
 Are like options in that they specify purchase or sale of some underlying security at some future date. 
- What is the basis risk in hedging?
+What is the basis risk in hedging?
 It is the difference between the futures price and the spot price. 
- What is a basic investment?
+What is a basic investment?
 It's a current commitment of money or other resources in the expectation of reaping future benefits.
-
- Distinguish the difference between real assets and financial assets?
+Distinguish the difference between real assets and financial assets?
 Real assets are land, buildings, machines, and knowledge that can be used to produce goods and services and financial assets are securities that are no more than sheets of paper or, computer entries and do not contribute directly to the productive capacity of the economy. 
- What is equity in a firm represent?
+What is equity in a firm represent?
 Ownership share in the corporation. 
- Name three types of financial assets.
+Name three types of financial assets.
 Fixed-Income, equity, and derivatives.
- What are derivative securities?
+What are derivative securities?
 Are options and futures contracts provide payoffs that are determined by the prices of other assets such as bond or stock prices.
- What are potential conflicts of interest?
+What are potential conflicts of interest?
 Agency Problems.
- What are investment companies?
+What are investment companies?
 Companies that pool and manage the money of many investors and arise out of economies of scale. 
- What is financial engineering?
+What is financial engineering?
 It is the use of mathematical models and computer-based trading technology to synthesize new financial products. 
- What is the difference between the asking price and the bid price?
+What is the difference between the asking price and the bid price?
 The asking price is the price you would have to pay to buy a T-bill from a securities dealer. The bid price is the slightly lower price you would receive if you wanted to sell a bill to a dealer. 
- What is the bid-asked spread?
+What is the bid-asked spread?
 The difference between the asking price and the bid price. This is the dealers source of profit. 
- What are dollar denominated deposits at foreign banks or foreign branches of American Banks.
+What are dollar denominated deposits at foreign banks or foreign branches of American Banks.
 Eurodollars.
- What does LIBOR stand for?
+What does LIBOR stand for?
 London Interbank Offered Rate.
- What is a bond denominated in a currency other than that of the country in which it is issued called?
+What is a bond denominated in a currency other than that of the country in which it is issued called?
 Eurobond.
- What is NAV?
+What is NAV?
 Net Asset Value.
- What are greeks?
+What are greeks?
 Greeks are dimensions of risk involved in taking a position in an option or other derivative. 
- Name 5 greeks.
+Name 5 greeks.
 Delta, Vega, Theta, Rho, Lambda.
- What is CAL and what does it depict?
+What is CAL and what does it depict?
 It's the capital allocation line and it depicts all the risk-return combinations available to investors. 
- What is the difference between in the money and out of the money?
+What is the difference between in the money and out of the money?
 In the money when an option is exercised that would produce profits for its holder and out of the money is when an exercised option is unprofitable. 
- When is an option at the money?
+When is an option at the money?
 When an options exercise price and asset price are equal.
- What are Asian options?
+What are Asian options?
 Options with payoffs that depend on the average price of the underlying asset during at least some portion of the life of the option.
 What is a debt security?
 A promise to repay someone a fixed amount
@@ -500,19 +498,19 @@ dealers sell at this price, investors buy
 What is a market order?
 buy or sell a stock now 
 What is a book transaction?
-When you trade over 10,000 shares and want to split the order up so you don�t signal your intentions
+When you trade over 10,000 shares and want to split the order up so you don't signal your intentions
 What is shorting?
-Selling shares you don�t own and making money when the price goes down.
+Selling shares you don't own and making money when the price goes down.
 What is equity with margin shorting?
 Comes from and earns from shorting stock and money borrowed from margin
-When you�re shorting when do you get a margin call?
+When you're shorting when do you get a margin call?
 When price goes up
 What is an informed buyer?
-Someone who knows something that the market doesn�t
+Someone who knows something that the market doesn't
 What is a liquidity buyer?
 Someone who trades for their own reasons
 What is a noise buyer?
-Someone who thinks they�re an informed buyer, but they�re not really informed
+Someone who thinks they're an informed buyer, but they're not really informed
 What is a maintenance margin?
 An amount set by brokers to limit their loss
 What are the negative effects of a mutual fund?
@@ -526,11 +524,11 @@ Allows people to trade after closing, but still get the closing prices
 What is an option writer?
 Person who sells the call and has total obligation to sell
 If intrinsic value is greater than zero?
-It�s in the money and price is sensitive
+It's in the money and price is sensitive
 If intrinsic value is equal to the strike price?
-It�s at the money and price is somewhat sensitive
+It's at the money and price is somewhat sensitive
 If intrinsic value is equal to zero?
-It�s out of the money and price is not sensitive
+It's out of the money and price is not sensitive
 When is a call profitable?
 When stock price is greater than strike price
 When is a put profitable? 
@@ -556,7 +554,7 @@ When the company has the right to sell back stock
 What is a convertible bond?
 Buy a bond with an option to change it into stock 
 Why would a company use a convertible bond?
-To use for risk, if a company is doing poorly they get the yield. If they�re doing well they turn to stock and they get the return off of the stock prices
+To use for risk, if a company is doing poorly they get the yield. If they're doing well they turn to stock and they get the return off of the stock prices
 What is a warrant?
 Issued by the company and acts like a call option
 What is a call option?
@@ -732,13 +730,13 @@ Financial assets are claims to the real assets of a firm and claims to the incom
 What is a derivative security? 
 A derivative is security that derives its value from another asset. 
 What do financial markets do?
-Financial markets do two things organize a society and control a society�s wants and needs. 
+Financial markets do two things organize a society and control a society's wants and needs. 
 What is market efficiency? 
 Market efficiency is the speed at which new information is integrated into a markets price. 
 What is the difference between the Dow Jones and the S&P 500?
 The Dow Jones is a price weighted index, and the S&P 500 is a value weighted index.
 Is the Dow Jones a value weighted index?
-No, it is a price weighted index, a price weighted index sums the selling price of the firm�s stock in the index and then divides that by the total number of firms. 
+No, it is a price weighted index, a price weighted index sums the selling price of the firm's stock in the index and then divides that by the total number of firms. 
 Is the S&P 500 a price weighted index?
 No, it is a value weighted index.
 What is a Value weighted index? 
@@ -811,23 +809,23 @@ What is a put option?
 A put option is the right to sell an assets at a specified exercise price on or before a specified expiration date. 
 What is a call option?
 A call option is the right to buy an asset at a specified exercise price on or before a specified expiration date.
-What is a dealer�s market?
+What is a dealer's market?
 A market where traders specializing in particular commodities buy and sell assets for their own accounts. Example over the counter market.
 When did options start to sell in the U.S.?
 Options started selling in the United States in 1973.
-When is an option considered �in the money�? 
-An option is considered �in the money� when its intrinsic value is greater than 0.
-When is an option considered �at the money�? 
-An option is considered �at the money� when its intrinsic value is equal to 0.
-When is an option considered �out of the money�?
-An option is considered �out of the money� when its intrinsic value is less than 0.
+When is an option considered 'in the money'? 
+An option is considered 'in the money' when its intrinsic value is greater than 0.
+When is an option considered 'at the money'? 
+An option is considered 'at the money' when its intrinsic value is equal to 0.
+When is an option considered 'out of the money'?
+An option is considered 'out of the money' when its intrinsic value is less than 0.
 What is the intrinsic value of an option?
 The stock price minus the strike price, or the profit that could be attained by immediate exercise of an in the money option. I=Max(X-S,0).
 What is a bullish attitude?
-A bullish attitude is an investor�s optimistic attitude,
+A bullish attitude is an investor's optimistic attitude,
 What is a bearish attitude?
-A bearish attitude is an investor�s pessimistic attitude.
-What does an investor expect when he buys a �straddle�?
+A bearish attitude is an investor's pessimistic attitude.
+What does an investor expect when he buys a 'straddle'?
 A straddle spread means the investor believes the option will be more volatile than the market expects.
 What is the face value of a bond?
 The face value of a bond is the maturity value of the bond.
@@ -846,9 +844,9 @@ The ask price is the price at which a dealer will sell a security.
 What is the bid price?
 The bid price is the price at which an investor will buy a security. 
 What is the bid-ask spread? 
-The difference between a dealer�s bid and asked prices.
+The difference between a dealer's bid and asked prices.
 What is a binomial pricing model?
-A binomial pricing model is a valuation model that assumes a stock�s price can move to only two values over any short time period. 
+A binomial pricing model is a valuation model that assumes a stock's price can move to only two values over any short time period. 
 What is a calendar spread?
 A spread that buys one option and sells another with a different expiration date. 
 What is a callable bond?
@@ -856,7 +854,7 @@ A bond that the issuer may repurchase at a given price in a specified period of 
 What is a covered call?
 A covered call is a combination of selling a call on a stock together with buying the stock.
 What is a protective put? 
-Purchase of a stock with a put option. Guarantees minimum proceeds equal to the put�s exercise price.
+Purchase of a stock with a put option. Guarantees minimum proceeds equal to the put's exercise price.
 What is the risk free rate?
 The interest rate that can be earned with certainty.
 What is the Put/Call ratio?
@@ -864,7 +862,7 @@ The put/call ratio is the ratio of put options to call options outstanding on a 
 What is a limit order? 
 An order specifying a price at which an investor is willing to buy or sell a security. 
 What is leverage? 
-The amount of debt used to finance a firm�s assets.
+The amount of debt used to finance a firm's assets.
 What is a block transaction? 
 A large transaction in which at least 10,000 stocks are bought or sold.
 What is the market value (MV)?
@@ -904,7 +902,7 @@ The Market Maker (Dealer)
 Who sells at the bid?
 The Investor
 When do you use Market Orders?
-When the investor is buying/selling small number of stocks � not block transactions
+When the investor is buying/selling small number of stocks ' not block transactions
 When do you use a stop order?
 When you want to limit your losses
 What is a block transaction?
@@ -912,7 +910,7 @@ A trade that involves 10,000 or more shares of stock
 What is Margin Percent?
 Equity / Market Value
 When does an investor get a margin call?
-When the stock reaches the dealer�s maintenance margin
+When the stock reaches the dealer's maintenance margin
 How does a dividend payment affect price of a call option?
 Call option is lower on higher paying dividends
 How is intrinsic value calculated?
@@ -920,19 +918,19 @@ Maximum of: Stock Price less Strike Price or 0
 How is profit calculated?
 Intrinsic Value less Premium (what buyer paid)
 When do you choose a Straddle?
-When you expect the investment to be more volatile than the market predicts � you gain whether the investment increases or decreases
+When you expect the investment to be more volatile than the market predicts ' you gain whether the investment increases or decreases
 When do you choose a Protective Put?
 When you want to minimize losses
 What is a callable bond?
-A bond where the issuer has the option to buy the bond back from the buyer prior to expiration � gives the holder a higher interest rate due to risk of the issuer buying the bond back
+A bond where the issuer has the option to buy the bond back from the buyer prior to expiration ' gives the holder a higher interest rate due to risk of the issuer buying the bond back
 What is a puttable bond?
-A bond where the buyer has the option to sell the bond back to the issuer prior to expiration � gives the issuer a higher interest rate due to risk of the buyer selling the bond back
+A bond where the buyer has the option to sell the bond back to the issuer prior to expiration ' gives the issuer a higher interest rate due to risk of the buyer selling the bond back
 What is a convertible bond?
 The buyer has the option to convert the bond into some number of stocks (according to value of bond and stocks)
 How do you value a call option?
 By replicating a stock and a bond
-What happens to an option�s price when volatility increases?
-The option�s price also increases
+What happens to an option's price when volatility increases?
+The option's price also increases
 When does Basis equal 0?
 When the spot price is the same as the futures price
 When does Basis not equal 0?
@@ -942,7 +940,7 @@ Using the futures contract of two commodities in the refinery process of the com
 What is the effect on Basis when cross hedging is used?
 Basis risk increases
 What is the primary market?
-Where the company is directly involved in the exchange of assets � whether they are the buyer or the seller � causing a change in the number of shares outstanding
+Where the company is directly involved in the exchange of assets ' whether they are the buyer or the seller ' causing a change in the number of shares outstanding
 What is the secondary market?
 Where assets are exchanged between people, separate of the company, the number of shares outstanding does not change
 What is the maturity of a money market security?
@@ -951,7 +949,7 @@ What is the maturity of a capital market security?
 More than 1 year
 What is a blockholder?
 A person owning 5%-10% of the corporation, and watching the corporation to ensure they are making decisions to increase their invested money.
-What is �Monetizing the Debt�?
+What is 'Monetizing the Debt'?
 When the Federal Reserve buys backs treasuries and other securities
 What is the effect of budget deficits on interest rates?
 It causes interest rates to increase due to crowding out
@@ -961,86 +959,86 @@ What is the effect of liquidity on interest rates?
 Less liquid debt yields higher interest rates
 What is the effect of tax status on interest rates?
 An increase in tax status increases interest rates
- Q - What is an investment?
-A - The current commitment of money or another resource in the expectation of receiving benefits in the future.
- Q - What are examples of real assets?
-A - Machines, land, buildings, knowledge, etc.
- Q - What is a derivative security?
-A - A security that derives its value from something else, such as another security.
- Q - What do free markets do?
-A - Free markets take infomration and put it into prices, which affects your behavior, thus organizing the way our society functions.
- Q - What do efficient markets do?
-A - Efficient markets quickly and accurately incorporate information into the market.
- Q - What do inefficient markets do?
-A - Inefficient markets slowly incorporate, or overshoot, information into the market.
- Q - How do we measure risk?
-A - We may measure risk by using volatility, standard deviation, beta, etc.
- Q - Which stocks have the greatest affect on the price weighted index?
-A - The stocks with the highest price have the greatest affect on the price weighted index.
- Q - What is a disadvantage of the market order?
-A - If you are buying a lot, you will climb the price ladder, and as people notice this they will start raising their prices.
- Q - What do limit orders do to the market?
-A - Limit orders provide liquidity to the market.
- Q - What do market orders do to the market?
-A - Market orders take liquidity from the market.
- Q - Why will a broker set a maintenance margin?
-A - A broker sets a maintenance margin at some point to fundamentally guarantee that they will always close you out in a position where you can still pay back your loan.
- Q - What is a margin account used for?
-A - A margin account is used so you can buy or sell stock through your broker.
- Q - What is an option?
-A - An option is a contract that gives the owner of an option the right, but not the obligation, to buy or sell an asset at a set strike, or exercise, price on or before expiration.
- Q - What does a call option give the owner?
-A - A call option gives the owner the right to buy an asset at a set strike, or exercise, price on or before expiration.
- Q - What does a call option give the writer?
-A - A call option makes the writer obligated to sell an asset at a set strike, or exercise, price on or before expiration.
- Q - What does a put option give the owner?
-A - A put option gives the owner the right to sell an asset at a set strike, or exercise, price on or before expiration.
- Q - What does a put option give the writer?
-A - A put option makes the writer obligated to buy an asset at a set strike, or exercise, price on or before expiration.
- Q - What type of option will be lower on higher dividend-paying stocks?
-A - A call option will be lower on higher dividend-paying stocks.
- Q - What type of option will be higher on higher dividend-paying stocks?
-A - A put option will be higher on higher dividend-paying stocks.
- Q - What does a convertible bond allow you to do?
-A - A convertible bond gives you the option to convert a bond into stock.
- Q - What is a collateralized loan?
-A - A collateralized loan is a loan backed by collateral, which acts as security if one defaults on the loan.
- Q - What is diversification?
-A - Diversification involves putting components together to lesson risk.
- Q - What are forwards traded on?
-A - Forwards are traded OTC (over the counter).
- Q - What are futures traded on?
-A - Futures are traded on exchange.
- Q - What is open interest?
-A - Open interest is the number of contracts in existence.
- Q - What is cross-hedging?
-A - In cross-hedging, the asset to be hedged is different than the hedge vehicle.
- Q - What is basis risk?
-A - Basis risk is the risk associated with the spread between a spot price and a futures price, and the uncertain movements within said spread.
- Q - What is the basis?
-A - The basis is the difference between the spot price and the futures price.
- Q - When will a long spot-short futures position profit?
-A - It will profit when the basis narrows.
- Q - If the risk-free rate is larger than the dividend yield, will the futures price be higher or lower on longer-maturity contracts?
-A - The futures price will be higher on longer-maturity contracts.
- Q - What occurs in late trading?
-A - Mutual fund traders would allow people to trade after the close but at the close price.
- Q - Why are mutual funds limited as to what they can buy?
-A - Mutual funds are regulated by the SEC.
- Q - What do informed traders know?
-A - Informed traders know something that the market does not.
- Q - Why do liquidity traders trade?
-A - Liquidity traders trade for their own personal reasons, whether it be to invest or realize gains.
- Q - Who are noise traders?
-A - Noise traders are traders that think they are informed but in reality they no nothing more about the market than anyone else.
- Q - How can market makers make more money?
-A - To make more money, market makers must get noise traders to trade more by making them think they are more informed.
- Q - Who do market makers always lose to?
-A - Market makers always lose to informed traders.
- Q - What do open-end funds always trade for?
-A - Open-end funds always trade for net asset value.
- Q - What are closed-end funds generally traded for?
-A - Closed-end funds generally trade for a discount.
+What is an investment?
+The current commitment of money or another resource in the expectation of receiving benefits in the future.
+What are examples of real assets?
+Machines, land, buildings, knowledge, etc.
+What is a derivative security?
+A security that derives its value from something else, such as another security.
+What do free markets do?
+Free markets take infomration and put it into prices, which affects your behavior, thus organizing the way our society functions.
+What do efficient markets do?
+Efficient markets quickly and accurately incorporate information into the market.
+What do inefficient markets do?
+Inefficient markets slowly incorporate, or overshoot, information into the market.
+How do we measure risk?
+We may measure risk by using volatility, standard deviation, beta, etc.
+Which stocks have the greatest affect on the price weighted index?
+The stocks with the highest price have the greatest affect on the price weighted index.
+What is a disadvantage of the market order?
+If you are buying a lot, you will climb the price ladder, and as people notice this they will start raising their prices.
+What do limit orders do to the market?
+Limit orders provide liquidity to the market.
+What do market orders do to the market?
+Market orders take liquidity from the market.
+Why will a broker set a maintenance margin?
+A broker sets a maintenance margin at some point to fundamentally guarantee that they will always close you out in a position where you can still pay back your loan.
+What is a margin account used for?
+A margin account is used so you can buy or sell stock through your broker.
+What is an option?
+An option is a contract that gives the owner of an option the right, but not the obligation, to buy or sell an asset at a set strike, or exercise, price on or before expiration.
+What does a call option give the owner?
+A call option gives the owner the right to buy an asset at a set strike, or exercise, price on or before expiration.
+What does a call option give the writer?
+A call option makes the writer obligated to sell an asset at a set strike, or exercise, price on or before expiration.
+What does a put option give the owner?
+A put option gives the owner the right to sell an asset at a set strike, or exercise, price on or before expiration.
+What does a put option give the writer?
+A put option makes the writer obligated to buy an asset at a set strike, or exercise, price on or before expiration.
+What type of option will be lower on higher dividend-paying stocks?
+A call option will be lower on higher dividend-paying stocks.
+What type of option will be higher on higher dividend-paying stocks?
+A put option will be higher on higher dividend-paying stocks.
+What does a convertible bond allow you to do?
+A convertible bond gives you the option to convert a bond into stock.
+What is a collateralized loan?
+A collateralized loan is a loan backed by collateral, which acts as security if one defaults on the loan.
+What is diversification?
+Diversification involves putting components together to lesson risk.
+What are forwards traded on?
+Forwards are traded OTC (over the counter).
+What are futures traded on?
+Futures are traded on exchange.
+What is open interest?
+Open interest is the number of contracts in existence.
+What is cross-hedging?
+In cross-hedging, the asset to be hedged is different than the hedge vehicle.
+What is basis risk?
+Basis risk is the risk associated with the spread between a spot price and a futures price, and the uncertain movements within said spread.
+What is the basis?
+The basis is the difference between the spot price and the futures price.
+When will a long spot-short futures position profit?
+It will profit when the basis narrows.
+If the risk-free rate is larger than the dividend yield, will the futures price be higher or lower on longer-maturity contracts?
+The futures price will be higher on longer-maturity contracts.
+What occurs in late trading?
+Mutual fund traders would allow people to trade after the close but at the close price.
+Why are mutual funds limited as to what they can buy?
+Mutual funds are regulated by the SEC.
+What do informed traders know?
+Informed traders know something that the market does not.
+Why do liquidity traders trade?
+Liquidity traders trade for their own personal reasons, whether it be to invest or realize gains.
+Who are noise traders?
+Noise traders are traders that think they are informed but in reality they no nothing more about the market than anyone else.
+How can market makers make more money?
+To make more money, market makers must get noise traders to trade more by making them think they are more informed.
+Who do market makers always lose to?
+Market makers always lose to informed traders.
+What do open-end funds always trade for?
+Open-end funds always trade for net asset value.
+What are closed-end funds generally traded for?
+Closed-end funds generally trade for a discount.
 What are debt securities?
 A fixed stream of income.
 How does the free market dictate how a consumer behaves?
@@ -1150,7 +1148,7 @@ The market maker is able to make the most money off of noise traders
 what is a liquidity trader?
 Someone who invests fixed amount money into the market every month.
 Why are their hedge funds?
-�Hedge funds create uncorrelated investments so if the stock market crashes 
+'Hedge funds create uncorrelated investments so if the stock market crashes 
 the investors will not lose all of their money.
 What is a Repo?
 An agreement to buy a treasury with the agreement to resell that treasury back to the original seller. 
@@ -1486,7 +1484,7 @@ Is a bond denominated in a currency other than that of the country in which it i
 Who are Municipal bonds issued by?
 State and local governments.
 What is the Price-earnings ratio?
-Is the ratio of the current stock price to last year�s earnings per share. 
+Is the ratio of the current stock price to last year's earnings per share. 
 What is a call option for the holder?
 Gives the holder the right to purchase an asset for a specified strike price on or before some specified expiration date. 
 What is a call option for the writer?
@@ -1582,11 +1580,11 @@ American options can be exercised at any time before the expiration date.  Europ
 Can the owner of the option choose not to exercise it?
 Yes
 What is the equation used to determine the intrinsic value of a call?
-Intrinsic Value= Max (stock price � strike price, 0)
+Intrinsic Value= Max (stock price ' strike price, 0)
 What is the equation used to determine the intrinsic value of a put?
-Intrinsic Value= Max (strike price � stock price, 0)
-When is an option considered to be �in the money�?
-When the option�s intrinsic value is greater than 0.
+Intrinsic Value= Max (strike price ' stock price, 0)
+When is an option considered to be 'in the money'?
+When the option's intrinsic value is greater than 0.
 How do you create a covered call option spread?
 Sell a call option for a stock that you already own with a strike price that greater than the current stock price.
 How would you create a protective put option spread?
@@ -1614,7 +1612,7 @@ Increased the financial disclosure and accounting regulations that corporations 
 What is an annuity?
 A series of cash flows that begin and end. 
 What is a perpetuity?
-A series of cash flows that don�t have an ending.
+A series of cash flows that don't have an ending.
 What is an indenture?
 Secured debt that is backed by an asset that can be seized if the loan defaults. 
 What is a debenture?
@@ -1745,7 +1743,6 @@ What is financial engineering?
 replicating securities with specific characteristics
 What is a limit order?
 specifies a price at which an investor is willing to buy or sell a security
-
 What is a stop order?
 trades are not executed unless the security reaches a certain price
 What is a stop-loss order?
@@ -1786,86 +1783,86 @@ How does submitting a market order affect liquidity?
 Decreases 
 What are futures markets used for?
 hedging and diversifying
-q:What is an arbitrage
-a:A zero-risk, zero net investment strategy that still generates profit
-q:What is the asked price
-a:The price at which a dealer will sell a security
-q:When is an option at the money
-a:When the excercise price and asset price of an option are equal
-q:What is the bid price
-a:The price at which a dealer is willing to purchase a security
-q:What is the bid ask spread
-a:The difference between a dealer's bid and asked price
-q:What are the inputs of Black Scholes
-a:Stock price, excercise price, risk free rate, time to maturity, and volatility
-q:How many shares are in a block sale
-a:Ten thousand or more
-q:What is a callable bond
-a:A bond that the issuer may repurchase at a given price in some specified period
-q:What is a call option
-a:The right to buy an asset at a specified exercise price on or before a specified expiration date
-q:What is commercial paper
-a:Short term unsecured debt issued by large corporations
-q:What is contengo
-a:Future prices must exceed the expected future spot price
-q:What makes up a covered call
-a:Combination of selling a call on a stock together with buying the stock
-q:What is a derivative
-a:A security providing payoffs that depend on or are contingent on the values of other assets
-q:What is a discount bond
-a:A bond selling below par value
-q:What is diversification
-a:Spreading a portfolio over many investments to avoid excessive exposure to any one source of risk
-q:What is the difference between an American option and an European option
-a:A Europena option can be excercised only on the expiration date and American can be excercised anytime up to expiration
-q:What is the exercise/strike price
-a:Price set for buying an asset or selling an asset
-q:What is a forward contract
-a:An agreement calling for future delivery ofan asset at an agreed-upon price
-q:What is a futures price
-a:The price at which a futures trader commits to make or take delivery of the underlying asset
-q:Is a hedge fund exempt from SEC regulation
-a:Yes
-q:Why do investors hedge
-a:To reduce the overall risk of a portfolio
-q:What is implied volatility
-a:The standard deviation of stock returns that is consistent with an option's market value
-q:What is inside information
-a:Nonpublic knowledge about a corporation
-q:What is the intrinsic value of an option
-a:Stock price minus the excercise price
-q:What is a limit order
-a:An order specifiying a price at which an investor is willing to buy or sell a security
-q:What does LIBOR stand for
-London Interbank Offered Rate
-q:What is a market order
-a:A buy or sell order to be executed immediately at current market prices
-q:When is an option out of the money
-a:When the strike price of a call option is higher than the underlying asset
-q:What makes up a protective put
-a:The purchase of a stock combined with a put option
-q:What is a put option
-a:The right to sell an asset at a specified excercise price on or before a specified expiration date
-q:What is a specialist
-a:A trade who makes a market in the shares of one or more firms, maintains a fair and orderly market
-q:What is a warrant
-a:An option issued by the firm to purchase shares of the firm's stock
-q:What makes a market efficient
-a:The ability to quickly and accurately adjust prices
-q:A value rated stock index is most affected by
-a:A stock with the highest value
-q:What are the three types of traders
-a:Informed, liquidity, and noise
-q:What makes up a straddle
-a:Buy a call and buy put
-q:What happens to delta as a put goes out of the money
-a:Delta moves toward zero
-q:What does gamma measure
-a:How fast delta moves
-q:What is a difference between a forward and future
-a:Forwards are not traded on an exchange and futures are
-q:What is cross hedging
-a:Finding an asset that behaves similarly to what you want to hedge
+What is an arbitrage
+A zero-risk, zero net investment strategy that still generates profit
+What is the asked price
+The price at which a dealer will sell a security
+When is an option at the money
+When the excercise price and asset price of an option are equal
+What is the bid price
+The price at which a dealer is willing to purchase a security
+What is the bid ask spread
+The difference between a dealer's bid and asked price
+What are the inputs of Black Scholes
+Stock price, excercise price, risk free rate, time to maturity, and volatility
+How many shares are in a block sale
+Ten thousand or more
+What is a callable bond
+A bond that the issuer may repurchase at a given price in some specified period
+What is a call option
+The right to buy an asset at a specified exercise price on or before a specified expiration date
+What is commercial paper
+Short term unsecured debt issued by large corporations
+What is contengo
+Future prices must exceed the expected future spot price
+What makes up a covered call
+Combination of selling a call on a stock together with buying the stock
+What is a derivative
+A security providing payoffs that depend on or are contingent on the values of other assets
+What is a discount bond
+A bond selling below par value
+What is diversification
+Spreading a portfolio over many investments to avoid excessive exposure to any one source of risk
+What is the difference between an American option and an European option
+A Europena option can be excercised only on the expiration date and American can be excercised anytime up to expiration
+What is the exercise/strike price
+Price set for buying an asset or selling an asset
+What is a forward contract
+An agreement calling for future delivery ofan asset at an agreed-upon price
+What is a futures price
+The price at which a futures trader commits to make or take delivery of the underlying asset
+Is a hedge fund exempt from SEC regulation
+Yes
+Why do investors hedge
+To reduce the overall risk of a portfolio
+What is implied volatility
+The standard deviation of stock returns that is consistent with an option's market value
+What is inside information
+Nonpublic knowledge about a corporation
+What is the intrinsic value of an option
+Stock price minus the excercise price
+What is a limit order
+An order specifiying a price at which an investor is willing to buy or sell a security
+What does LIBOR stand for
+ndon Interbank Offered Rate
+What is a market order
+A buy or sell order to be executed immediately at current market prices
+When is an option out of the money
+When the strike price of a call option is higher than the underlying asset
+What makes up a protective put
+The purchase of a stock combined with a put option
+What is a put option
+The right to sell an asset at a specified excercise price on or before a specified expiration date
+What is a specialist
+A trade who makes a market in the shares of one or more firms, maintains a fair and orderly market
+What is a warrant
+An option issued by the firm to purchase shares of the firm's stock
+What makes a market efficient
+The ability to quickly and accurately adjust prices
+A value rated stock index is most affected by
+A stock with the highest value
+What are the three types of traders
+Informed, liquidity, and noise
+What makes up a straddle
+Buy a call and buy put
+What happens to delta as a put goes out of the money
+Delta moves toward zero
+What does gamma measure
+How fast delta moves
+What is a difference between a forward and future
+Forwards are not traded on an exchange and futures are
+What is cross hedging
+Finding an asset that behaves similarly to what you want to hedge
 The right to buy an asset at a specific exercise price on or before a specific expiration date is the definition of what?
 Call Option
 A bond that the issuer may repurchase at a given price in some specific period is the definition of what?
@@ -1876,7 +1873,7 @@ What is a price set for calling an asset or putting an asset called?
 Exercise or strike price
 What is it called when you invest in an asset to reduce the overall risk in a portfolio?
 Hedging
-The purchase price of an option is also referred to as�?
+The purchase price of an option is also referred to as'?
 Premium
 The right to sell an asset at a specific exercise price on or before a specific expiration date is referred to as..?
 A put option
@@ -1942,7 +1939,7 @@ What are call options called that are issued by a firm itself?
 Warrants
 What is a collateralized loan?
 A loan that is backed up by assets that will be taken in the event of default on the loan
-The term for an annualized interest rate on a security that is computed by using compound interest techniques is�?
+The term for an annualized interest rate on a security that is computed by using compound interest techniques is'?
 Effective annual yield 
 The measure of the welfare or satisfaction of an investor is referred to as..?
 Utility
@@ -2032,7 +2029,7 @@ What is an agency problem?
 Conflicts of interest among stockholders, bondholders, and managers.
 What is the ask price?
 The price at which a dealer will sell a security.
-What does �at the money� mean?
+What does 'at the money' mean?
 The exercise price and asset price of an option are equal.
 What is the bid price?
 The price at which a dealer is willing to purchase a security.
@@ -2045,7 +2042,7 @@ A security issued by a borrower that obligates he issuer to make specified payme
 What type of investor is bullish?
 optimistic
 What type of investor is bearish?
-pessimistic�
+pessimistic'
 What is a call option?
 The right to buy an asset at a specified exercise price on or before a specified expiration date.
 What is a callable bond?
@@ -2053,11 +2050,11 @@ A bond that the issuer may repurchase at a given price in some specified time pe
 What is a collar option?
 Brackets the value of a portfolio between two bounds.
 What is collateral?
-A specified asset pledged against possible default on a bond.�
+A specified asset pledged against possible default on a bond.'
 What is convexity?
-The curvature of the price-yield relationship of a bond.�
-What is a bond�s current yield?
-The annual coupon payment divided by its price.�
+The curvature of the price-yield relationship of a bond.'
+What is a bond's current yield?
+The annual coupon payment divided by its price.'
 What are discount bonds?
 Bonds that are selling below par value.
 What is diversification?
@@ -2067,7 +2064,7 @@ That the prices of securities fully reflect all available information.
 What is equity?
 Ownership in a firm.
 What is the exchange rate?
-Price of a unit of one country�s currency in terms of another country�s currency.
+Price of a unit of one country's currency in terms of another country's currency.
 What is the exercise price of a bond?
 Price set for calling an asset or putting an asset.
 What is expected return?
@@ -2083,7 +2080,7 @@ The rate at which the general level of prices for goods and services is rising.
 What is insider trading?
 Trading by officers, managers, etc. who hold private information allowing them to benefit from buying or selling the stock.
 What is the intrinsic value of a company?
-The present value of a firm�s expected future net cash flows discounted by the required rate of return.
+The present value of a firm's expected future net cash flows discounted by the required rate of return.
 What is hedging?
 Investing in an asset to reduce the overall risk of a portfolio.
 What is inflation?
@@ -2091,10 +2088,10 @@ The rate at which the general level of prices for goods and services is rising.
 What is the initial public offering for a company?
 Stock that is issued to the public for the first time by a formerly privately owned company.
 What is a limit order?
-An order specifying a price at which an investor is willing to buy or sell a security.�
+An order specifying a price at which an investor is willing to buy or sell a security.'
 What is a margin?
 It describes securities purchased with money borrowed from a broker.
-What does �out of the money� mean?
+What does 'out of the money' mean?
 An option where exercise would not be profitable.
 What is the par value of a bond?
 The same amount as the face value.
@@ -2105,7 +2102,7 @@ Where new issues of securities that are offered to the public.
 What are premium bonds?
 Bonds that are selling above par.
 What is a protective put?
-Purchasing of stock combined with a put option that guarantees minimum proceeds equal to the put�s exercise price.
+Purchasing of stock combined with a put option that guarantees minimum proceeds equal to the put's exercise price.
 What is the Put/Call ratio on stock?
 Ratio of put options to call options outstanding on stock.
 What is the premium of an option?
@@ -2145,7 +2142,7 @@ Ownership interest in a company; a type of investment.
 What are mutual funds?
 A group of investments held in common by many individual investors.
 What is a 401(K) plan?
-A type of retirement in which deductions are made from the employee�s paycheck.
+A type of retirement in which deductions are made from the employee's paycheck.
 What does it mean to be at-the-money?
 An option whose exercise price is equal to the current market price of the underlying security. An ATM option may or may not have intrinsic value.
 What is an automatic exercise?
@@ -2209,7 +2206,7 @@ When a stock hits a set loss, the broker requires money or the account will be s
 What are the three types of traders in the market
 Informed, liquidity, and noise traders
 What is an informed trader
-A trader that has the information that the rest of the market doesn�t have
+A trader that has the information that the rest of the market doesn't have
 what is a liquidity trader
 Traders who have excess money and trade for personal reasons
 what is a noise trader
@@ -2297,7 +2294,7 @@ The black Scholes model assumes that the call can only be exercised on the expir
 what assumption is made by the Black Scholes pricing model in regards to price
 The black Scholes model assumes that prices are always stochastic
 What is a Long-term Equity Anticipation Position Security
-any option that has a strike date longer than 6 months� out
+any option that has a strike date longer than 6 months' out
 Who sets the maintenance margin
 the broker
 is a stock or an option more risky
@@ -2573,7 +2570,7 @@ Market order, limit order, and stop order.
 What are block transactions when trading stock?
 Buying or selling 10,000 shares or more.
 What is a noise trader?
-A trader who is trading on noise; they think that they�re informed but they�re not.
+A trader who is trading on noise; they think that they're informed but they're not.
 Who will always gain when trading stock?
 The market maker.
 What is a call option?
@@ -2607,7 +2604,7 @@ The launch of a new product or project at the expense of an old one.
 What is capital structure?
 How a firm arranges their financing between debt and equity.
 What is the agency problem?
-A conflict of interest between a company�s management and stockholders.
+A conflict of interest between a company's management and stockholders.
 What is the international money market?
 The international market for debt with maturity under one year.
 What is declaration data?
@@ -2617,7 +2614,7 @@ When a company gives current shareholders new shares in proportion to the amount
 What is stock repurchase?
 When a company repurchases its own stock.
 What is working capital?
-A firm�s current assets minus current liabilities.
+A firm's current assets minus current liabilities.
 What do markets do?
 Aggregate information to set prices and organize society.
 What do efficient markets do?
@@ -2629,15 +2626,15 @@ The amount that the ask price exceeds the bid price.
 What type of orders provide liquidity?
 Limit orders.
 What is shorting stock?
-The opposite of buying stock; selling stock that you don�t own.
+The opposite of buying stock; selling stock that you don't own.
 What are the three types of traders in the market?
 Informed traders, liquidity traders, and noise traders.
 What type of traders always gain in the market?
 Informed traders.
 How are options traded?
 In units of 100 contracts?
-What is an option�s payoff?
-The option�s intrinsic value minus the premium payed for the option.
+What is an option's payoff?
+The option's intrinsic value minus the premium payed for the option.
 What is the goal when writing options?
 To write a lot of options and make small gains on each.
 Why do equity holders want to take on more risk?
@@ -2655,7 +2652,7 @@ Buy the stock at a certain price
 What are the three types of traders
 Informed, Liquidity, and Noise Traders
 What type of trader will beat the Market
-Infromed Trader
+Informed Trader
 What traders will lose to the market
 Noise Traders and Liquidity
 What is the price represent to the ticker symbol
