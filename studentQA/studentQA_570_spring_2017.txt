@@ -22,3 +22,33 @@ A Limited Liability Company (LLC) is a hybrid of what two forms of business ente
 A partnership and a corporation.
 What does EBIT stand for?
 Earnings Before Interest and Taxes.
+What are the three basic legal forms of organizing firms?
+Sole Proprietorship, Partnership and Corporation.
+What is Capital Structure?
+The proportion of a firm’s financing from current and long-term debt and equity.
+What is the goal of financial management?
+To maximize the current value per share of the existing stock.
+What is an agency relationship?
+The relationship between stockholders and management.
+Who are stakeholders?
+Someone other than a stockholder or creditor who potentially has a claim on the cash flows of the firm.
+Under GAAP, at what value are assets carried on the Balance Sheet?
+At cost.
+Which financial statement measures performance over a specific period of time?
+The Income Statement.
+What is the matching principle of GAAP?
+Revenues must be matched with expenses.
+What does the Statement of Cash Flows explain?
+The change in accounting cash and equivalents.
+What does operating cash flow measure?
+Cash generated from operations not counting capital spending or working capital requirements.
+How is the current ratio calculated?
+Current assets divided by current liabilities.
+What are profitability measures intended to measure?
+How efficiently the firm uses its assets and manages its operations.
+What are pro forma financial statements?
+Financial statements in the form used to summarize the projected future financial status of the company.
+What is the sustainable growth rate?
+The maximum growth rate a firm can achieve with no external equity financing while it maintains a constant debt-equity ratio.
+What four factors does a firm’s ability to sustain growth depend on?
+Profit margin, dividend policy, financial policy and total asset turnover. 
