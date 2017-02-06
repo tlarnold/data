@@ -52,3 +52,23 @@ What is the sustainable growth rate?
 The maximum growth rate a firm can achieve with no external equity financing while it maintains a constant debt-equity ratio.
 What four factors does a firm’s ability to sustain growth depend on?
 Profit margin, dividend policy, financial policy and total asset turnover. 
+What is the difference between simple interest and compound interest?
+Each interest payment is reinvested with compound interest, whereas interest is not reinvested with simple interest.
+What is the opposite of compounding?
+Discounting.
+What is the difference between a perpetuity and an annuity?
+A perpetuity is a constant stream of cash flows without end, whereas an annuity is a level stream of payments that only lasts for a fixed number of periods.
+What does amortizing a loan mean?
+Providing for a loan to be paid off by making regular principal reductions.
+What is the stated annual interest rate?
+The annual interest rate without consideration of compounding.
+What is the Net Present Value (NPV) Rule?
+Accept if the NPV is greater than zero, reject if the NPV is less than zero.
+What are the three key attributes to Net Present Value (NPV)?
+NPV uses cash flows, NPV uses all the cash flows of the project, NPV discounts the cash flows properly.
+Why is the discount rate often referred to as an opportunity cost?
+Because corporate investment in a project takes away the stockholders opportunity to invest the dividend in a financial asset.
+What is the basic Internal Rate of Return (IRR) investment rule?
+Accept if the IRR is greater than the discount rate, reject of the IRR is less than the discount rate.
+What is a mutually exclusive investment?
+One where you are allowed to accept A or B or reject both A and B, but are not allowed to accept both A and B.
