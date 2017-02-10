@@ -72,3 +72,15 @@ What is the basic Internal Rate of Return (IRR) investment rule?
 Accept if the IRR is greater than the discount rate, reject of the IRR is less than the discount rate.
 What is a mutually exclusive investment?
 One where you are allowed to accept A or B or reject both A and B, but are not allowed to accept both A and B.
+What are incremental cash flows?
+Changes in the cash flows that occur as a direct consequence of accepting a project.
+What is the difference between synergy and erosion?
+The side effect of a newly proposed project may either reduces sales of current products (erosion), or increase cash flows of an existing project (synergy).
+When should a company decided to replace a piece of machinery?
+When the annual cost of the new machine is less than the annual cost of the old machine.
+What is a nominal cash flow?
+Actual dollars to be received (or paid out).
+What set of books is relevant for capital budgeting, stockholders’ or tax?
+Tax books.
+What are real options?
+Adjustments that a firm can make after a project is accepted.
