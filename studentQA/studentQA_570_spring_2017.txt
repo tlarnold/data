@@ -84,3 +84,19 @@ What set of books is relevant for capital budgeting, stockholders’ or tax?
 Tax books.
 What are real options?
 Adjustments that a firm can make after a project is accepted.
+This document is a snapshot of the assets a firm owns, and how they are financed.
+Balance Sheet
+This is the proportion of debt relative to equity financing of a firm’s assets.
+Leverage
+This statement is a combination of balance sheet and income statement.
+Cash Flow Statement
+These ratios are used to compare a single company’s performance over time and across companies.
+Financial Ratios
+Name the 5 categories financial ratios are classified under.
+Leverage, Liquidity, Asset Use Efficiency, Profitability and Market Values Measures
+What ratio is earnings before interest and taxes (EBIT) divided by the interest payment?
+Times Interest Earned Ratio
+This analysis uses ratios to show how firm efficiency and leverage can influence shareholder returns (ROE).
+DuPont
+What theory states that money available at the present time is worth more than the same amount in the future due to its potential earning capacity.
+Time Value of Money (TVM)
