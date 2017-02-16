@@ -100,3 +100,29 @@ This analysis uses ratios to show how firm efficiency and leverage can influence
 DuPont
 What theory states that money available at the present time is worth more than the same amount in the future due to its potential earning capacity.
 Time Value of Money (TVM)
+What are the two calculations that make up Total Return?
+Dividend yield and capital gain.
+What is the excess return of the risky asset?
+The difference between risky returns and risk-free returns.
+What is the equity risk premium?
+The average excess return on common stocks.
+What is the Sharpe Ratio?
+The risk premium of the asset divided by the standard deviation.
+What is the geometric average return?
+The average compound return per year over a particular period.
+What is the arithmetic average return?
+The return in an average year over a particular period.
+What is the standard error?
+The standard deviation of the historical risk premium.
+What is the expected return on a portfolio?
+The weighted average of the expected returns on the individual securities.
+What does the variance of a security measure?
+The variability of an individual security’s return. 
+What does the covariance measure?
+Relationship between two securities.
+What is a systematic risk?
+Any risk that affects a large number of assets, each to a greater or lesser degree.
+What is an unsystematic risk?
+A risk that specifically affects a single asset or a small group of assets. 
+What does Beta measure?
+The responsiveness of a security to movements in the market portfolio. 
