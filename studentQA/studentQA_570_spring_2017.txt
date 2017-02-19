@@ -84,31 +84,45 @@ What set of books is relevant for capital budgeting, stockholders’ or tax?
 Tax books.
 What are real options?
 Adjustments that a firm can make after a project is accepted.
-What are those assets that have short lives, such as inventory?
-Current Assets
-What are those assets that will last a long time, such as buildings?
-Fixed Assets
-What is debt that does not have to be repaid within one year?
-Long-Term Debt
-What are obligations of the firm that require a payout of cash within a specified period?
-Liabilities
-What is the price at which willing buyers and sellers would trade the assets?
-Market Value
-Revenue minus expenses is equal to?
-Income
-What does ROA stand for?
-Return on Assets
-Net Income divided by Total Assets is equal to?
-Return on Assets
-What does ROE stand for?
-Return on Equity
-To calculate this ratio, take the Price per share and divide it by Earnings per share.
-PE Ratio
-According to the Dupont identity, what 3 things is ROE affected by?
-Operating efficiency, Asset use efficiency and Financial leverage
-What ratio is the total assets to sales?
-Capital Intensity Ratio
-What is the maximum growth rate that can be achieved with no external financing of any kind (using internal financing only)?
-Internal Growth Rate
-Profit margin x Total asset turnover x Equity multiplier is equal to?
-ROE
+This document is a snapshot of the assets a firm owns, and how they are financed.
+Balance Sheet
+This is the proportion of debt relative to equity financing of a firm’s assets.
+Leverage
+This statement is a combination of balance sheet and income statement.
+Cash Flow Statement
+These ratios are used to compare a single company’s performance over time and across companies.
+Financial Ratios
+Name the 5 categories financial ratios are classified under.
+Leverage, Liquidity, Asset Use Efficiency, Profitability and Market Values Measures
+What ratio is earnings before interest and taxes (EBIT) divided by the interest payment?
+Times Interest Earned Ratio
+This analysis uses ratios to show how firm efficiency and leverage can influence shareholder returns (ROE).
+DuPont
+What theory states that money available at the present time is worth more than the same amount in the future due to its potential earning capacity.
+Time Value of Money (TVM)
+What are the two calculations that make up Total Return?
+Dividend yield and capital gain.
+What is the excess return of the risky asset?
+The difference between risky returns and risk-free returns.
+What is the equity risk premium?
+The average excess return on common stocks.
+What is the Sharpe Ratio?
+The risk premium of the asset divided by the standard deviation.
+What is the geometric average return?
+The average compound return per year over a particular period.
+What is the arithmetic average return?
+The return in an average year over a particular period.
+What is the standard error?
+The standard deviation of the historical risk premium.
+What is the expected return on a portfolio?
+The weighted average of the expected returns on the individual securities.
+What does the variance of a security measure?
+The variability of an individual security’s return. 
+What does the covariance measure?
+Relationship between two securities.
+What is a systematic risk?
+Any risk that affects a large number of assets, each to a greater or lesser degree.
+What is an unsystematic risk?
+A risk that specifically affects a single asset or a small group of assets. 
+What does Beta measure?
+The responsiveness of a security to movements in the market portfolio.
