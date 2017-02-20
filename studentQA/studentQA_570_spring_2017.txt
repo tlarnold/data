@@ -125,4 +125,4 @@ Any risk that affects a large number of assets, each to a greater or lesser degr
 What is an unsystematic risk?
 A risk that specifically affects a single asset or a small group of assets. 
 What does Beta measure?
-The responsiveness of a security to movements in the market portfolio. 
+The responsiveness of a security to movements in the market portfolio.
