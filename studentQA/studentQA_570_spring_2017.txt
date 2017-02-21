@@ -126,3 +126,103 @@ What is an unsystematic risk?
 A risk that specifically affects a single asset or a small group of assets. 
 What does Beta measure?
 The responsiveness of a security to movements in the market portfolio.
+What is the process of leaving money in the financial market and lending it for another year?
+Compounding
+What is a finite number of growing cash flows called?
+Growing annuity
+What project is one whose acceptance or rejection is independent of the acceptance or rejection of other projects?
+An independent project
+Present Value (PV) of cash flows subsequent to initial investment divided by initial investment is equal to what?
+The Profitability Index (PI)
+What is a sunk cost?
+A cost that has already occurred
+What is the change in the price of the stock divided by the initial price?
+Capital gain (or loss)
+What are the two most common measures of variability or dispersion?
+Variance and Standard deviation (variance's square root)
+What ratio is calculated as the risk premium of the asset divided by the standard deviation?
+The Sharpe ratio
+What does CAPM stand for?
+Capital Asset Pricing Model
+Any risk that affects a large number of assets, each to a greater or lesser degree is called what?
+A systematic risk
+Any risk that specifically affects a single asset or a small group of assets is called what?
+An unsystematic risk
+Companies with high fixed costs and low variable costs are generally said to have high what?
+Operating leverage
+What does WACC stand for?
+Weighted Average Cost of Capital
+What type of stock has no special preference either in receiving dividends or in bankruptcy?
+Common Stock
+What is the grant of authority by a shareholder to someone else to vote his/her shares called?
+Proxy
+What are paid to shareholders and represent a return on the capital directly or indirectly contributed to the corporation by the shareholders?
+Dividends
+What type of stock has preference over common stock in the payment of dividends and in the distribution of corporation assets in the event of liquidation?
+Preferred stock
+Also known as the deed of trust, what is the written agreement between the corporation and its creditors?
+An Indenture
+What is an unsecured bond for which no specific pledge of property is made?
+A debenture
+What is the fund that is managed by the bond trustee for the purpose of repaying the bonds?
+A sinking fund
+What is the type of bond issued in multiple countries but denominated in a single currency, usually the issuer's home currency?
+A Eurobond
+Unlike Eurobonds, what bonds are issued in a single country and are usually denominated in that country's currency?
+Foreign bonds
+What is the theory where a firm's capital structure decision involves a trade-off between the tax benefits of debt and the costs of financial distress?
+The Trade-Off or Static Trade-Off Theory of capital structure
+What is Net Present Value (NPV) plus Net Present Value of Financing (NPVF) side effects?
+Adjusted Present Value (APV)
+What are the 3 steps to the Flow to Equity (FTE) approach?
+Calculating the Levered Cash Flow (LCF), Calculating the discount rate and Valuation
+What is it called when a dividend is paid out in shares of stock?
+A stock dividend
+What is it called when a company divides its current shares of stock into multiple shares?
+A stock split.
+What is calculated when adding capital expenditures plus dividends?
+Cash flow
+What is it called when the preliminary prospectus contains bold red letters printed on the cover page?
+A red herring
+What does IPO stand for?
+Initial Public Offering
+In a rights offering, what is the price called that existing shareholders are allowed to pay for a share of stock?
+Subscription price
+What is calculated by dividing the total amount of funds to be raised by the subscription price?
+The number of new shares
+In regards to securities, what is dilution?
+A loss in existing shareholders' value.
+Name 3 kinds of dilution.
+Dilution of percentage ownership, Dilution of market value and Dilution of book value and earnings per share
+What is it called when a company sells an asset it owns to another firm and immediately leases it back?
+A sale and leaseback
+What option gives the owner the right to buy an asset at a fixed price during a particular period?
+A call option
+What are those assets that have short lives, such as inventory?
+Current Assets
+What are those assets that will last a long time, such as buildings?
+Fixed Assets
+What is debt that does not have to be repaid within one year?
+Long-Term Debt
+What are obligations of the firm that require a payout of cash within a specified period?
+Liabilities
+What is the price at which willing buyers and sellers would trade the assets?
+Market Value
+Revenue minus expenses is equal to?
+Income
+What does ROA stand for?
+Return on Assets
+Net Income divided by Total Assets is equal to?
+Return on Assets
+What does ROE stand for?
+Return on Equity
+To calculate this ratio, take the Price per share and divide it by Earnings per share.
+PE Ratio
+According to the Dupont identity, what 3 things is ROE affected by?
+Operating efficiency, Asset use efficiency and Financial leverage
+What ratio is the total assets to sales?
+Capital Intensity Ratio
+What is the maximum growth rate that can be achieved with no external financing of any kind (using internal financing only)?
+Internal Growth Rate
+Profit margin x Total asset turnover x Equity multiplier is equal to?
+ROE
