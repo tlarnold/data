@@ -226,3 +226,53 @@ What is the maximum growth rate that can be achieved with no external financing 
 Internal Growth Rate
 Profit margin x Total asset turnover x Equity multiplier is equal to?
 ROE
+What is the sum of the dividend income and the capital gain or loss on the investment?
+Total Dollar Return
+What is the change in the price of the stock divided by the initial price?
+Capital Gain (or loss)
+What stock portfolio is based on the Standard & Poor's Composite Index?
+Large-Company Common Stocks
+What stock portfolio corresponds to the bottom fifth of stocks traded on the New York Stock Exchange in which stocks are raned by market value?
+Small-Company Common Stocks
+What is a portfolio of high-quality corporate bonds with a 20-year maturities?
+Long-term Corporate Bonds
+What is based on U.S. government bonds with maturities of 20 years?
+Long-term U.S. Government Bonds
+What is based on Treasury bills with one-month maturity?
+U.S. Treasury Bills
+What is found by adding up all of the values and dividing by the total number of values?
+The Average or Mean
+What is the difference between risky returns and risk-free returns often called?
+Excess Return on the Risky Asset
+What is the average excess return on common stocks called?
+Equity Risk Premium
+What is the square root of the variance?
+Standard Deviation
+What Greek letter is used to represent the standard deviation?
+Sigma
+What is calculated as the risk premium of the asset divided by the standard deviation?
+Sharpe Ratio
+What shape is a normal distribution when it is drawn from a large enough sample?
+Bell-shaped Curve
+What tells you your average compound return per year over a particular period?
+Geometric Average
+What tells you your return in an average year over a particular period?
+Arithmetic Average
+What is the weighted average of the expected returns on the individual securities?
+Expected Return on a Portfolio
+What is the variance of the return on a portfolio with many securities dependent on?
+Covariance Between the Individual Securities
+What is a risk that affects a large number of assets, each to a greater or lesser degree?
+Systematic Risk
+What is a risk that specifically affects a single asset or a small group of assets?
+Unsystematic Risk
+What measures the responsiveness of a security to movements in the market portfolio?
+Beta
+What is stock that has no special preference either in receiving dividends or in bankruptcy called?
+Common Stock
+Who controls the corporation through the right to elect the directors?
+Shareholders
+What type of voting is calculated as the number of shares multiplied by the number of directors to be elected?
+Cumulative Voting
+In what type of voting are the directors elected one at a time?
+Straight Voting
