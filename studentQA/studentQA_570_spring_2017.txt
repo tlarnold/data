@@ -209,7 +209,7 @@ Liabilities
 What is the price at which willing buyers and sellers would trade the assets?
 Market Value
 Revenue minus expenses is equal to?
-Income
+hIncome
 What does ROA stand for?
 Return on Assets
 Net Income divided by Total Assets is equal to?
@@ -219,7 +219,7 @@ Return on Equity
 To calculate this ratio, take the Price per share and divide it by Earnings per share.
 PE Ratio
 According to the Dupont identity, what 3 things is ROE affected by?
-Operating efficiency, Asset use efficiency and Financial leverage
+WOperating efficiency, Asset use efficiency and Financial leverage
 What ratio is the total assets to sales?
 Capital Intensity Ratio
 What is the maximum growth rate that can be achieved with no external financing of any kind (using internal financing only)?
@@ -276,3 +276,93 @@ What type of voting is calculated as the number of shares multiplied by the numb
 Cumulative Voting
 In what type of voting are the directors elected one at a time?
 Straight Voting
+What measures the responsiveness of a security to movements in the market portfolio?
+Beta
+When using the capital asset pricing model, what is added to the product of beta of the security and the difference between expected return on market and risk-free rate?
+Risk-free rate
+What type of voting can "freeze out" minority shareholders?
+Straight Voting
+What tactic makes it more difficult for a minority to elect a director when there is cumulative voting because there are fewer directors to be elected at one time?
+Staggering
+What tactic makes it less likely that takeover attempts will succeed because it makes it more difficult to vote in a majority of new directors?
+Staggering
+What is a grant of authority by a shareholder to someone else to vote her shares called?
+Proxy
+What do we call a situation where an "outisde" group of shareholders tries to obtain votes via proxy becasue they are not satisfied with management?
+Proxy Fight
+What is the ability for stockholders to share proportionally in any new stock sold called?
+Preemptive Right
+What represents a return on the capital directly or indirectly contributed to the corporation by the shareholders?
+Dividends
+Where do corporations get the money to pay dividends?
+Aftertax profits
+What percentage of dividends is taxed for corporations that own stock in other corporations?
+30%
+Owners of what type of stock usually have no voting privileges?
+Preferred Stock
+What are preferred dividends that are cumulative and not paid in a particular year carried forward as?
+Arrearage
+The existence of what effectively creates a final maturity because it means that the entire issue will ultimately be retired?
+Sinking Funds
+What does TOPrS stand for?
+Trust-Originated Preferred Securities
+What does MIPS stand for?
+Monthly Income Preferred Securitites
+What does QUIPS stand for?
+Quarterly Income Preferred Securities
+What is the person or firm making the loan called?
+Creditor or Lender
+What is the corporation borrowing money called?
+Debtor or Borrower
+If a firm fails to pay off its debt, who can legally claim the assets of the firm?
+Creditors
+What is short-term debt sometimes referred to as?
+Unfunded Debt
+What are debt securities typically called?
+Notes, Debentures, or Bonds
+Notes typically have issues with an original maturity of how many years?
+10 Years or Less
+What are longer-term issues called?
+Bonds
+What is the written agreement between the corporation and its creditors?
+Indenture
+What is the indenture sometimes referred to as?
+Deed of Trust
+What is an unsecured bond for which no specific pledge of property is made?
+Debenture
+What is an account managed by the bond trustee for the purpose of repaying the bonds?
+Sinking Fund
+What allows the company to repurchase, or "call," part or all of the bond issue at stated prices over a specific period?
+Call Provision
+What is the difference between the call price and the stated value called?
+Call Premium
+What is the part of the indenture or loan agreement that limits certain actions a company might otherwise wish to take during the term of the loan?
+Protective Covenant
+What is a "thou shalt not" type of covenant?
+Negative Covenant
+What type of convenant specifies an action that the company agrees to take or a condition the company must abide by?
+Positive Covenant
+What is a bond issued by multiple countries but denominated in a single currency, usually the issuer's home currency?
+Eurobond
+What is a bond issued in a single country that is usually denominated in that country's currency?
+Foreign Bonds
+What is the expected earnings to unlevered firm divided by to find the cost of capital for an all-equity firm?
+Unlevered Equity
+What occurs when ownership of the firm's assets is legally transferred from the stockholders to the bondholders?
+Bankruptcy
+What kind of costs occur because of conflicts of interest that arise between stockholders and bondholders?
+Agency Costs
+What types of agreements are incorporated as part of the loan document between stockholders and bondholders?
+Protective Covenants
+What type of covenant limits or prohibits actions that the company may take?
+Negative Covenant
+What type of claims can be bought and sold in financial markets?
+Marketable Claims
+How many times a year do public companies usually pay regular cash dividends?
+Four Times a Year
+What type of dividend results in no cash leaving the firm, but rather increases the number of shares outstanding?
+Stock Dividend
+What is it called when a firm may use cash to buy back shares of its stock?
+Stock Repurchase
+What is the rise in the stock price following the dividend signal called?
+Information Content Effect of the Dividend
