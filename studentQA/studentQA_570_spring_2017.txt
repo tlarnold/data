@@ -209,7 +209,7 @@ Liabilities
 What is the price at which willing buyers and sellers would trade the assets?
 Market Value
 Revenue minus expenses is equal to?
-hIncome
+Income
 What does ROA stand for?
 Return on Assets
 Net Income divided by Total Assets is equal to?
@@ -219,7 +219,7 @@ Return on Equity
 To calculate this ratio, take the Price per share and divide it by Earnings per share.
 PE Ratio
 According to the Dupont identity, what 3 things is ROE affected by?
-WOperating efficiency, Asset use efficiency and Financial leverage
+Operating efficiency, Asset use efficiency and Financial leverage
 What ratio is the total assets to sales?
 Capital Intensity Ratio
 What is the maximum growth rate that can be achieved with no external financing of any kind (using internal financing only)?
