@@ -366,3 +366,55 @@ What is it called when a firm may use cash to buy back shares of its stock?
 Stock Repurchase
 What is the rise in the stock price following the dividend signal called?
 Information Content Effect of the Dividend
+What type of financial instrument is generally considered to be risk-free?
+Treasury instruments.
+What type of correlation does a security with a positive beta have with the market?
+A positive correlation.
+What three factors of a firm determine the beta of a stock?
+The cyclical nature of revenues, operating leverage, and financial leverage.
+If a project has a different risk from the firm, what discount rate should be used?
+The discount rate that correlates with the project’s own risk.
+How is the cost of debt determined?
+It is the cost of borrowing.
+Why is the cost of debt tax-adjusted?
+Interest payments can be deducted before paying taxes, but dividends are not tax deductible.
+In cumulative voting, how is the number of votes each shareholder can cast typically calculated?
+Number of shares (owned or controlled) multiplied by the number of directors to be elected.
+What are the two main effects of stagger voting?
+It makes it more difficult for a minority shareholder to elect a director when there is cumulative voting and it makes takeover attempts less likely to be successful.
+How does preferred stock differ from common stock?
+It has preference in the payment of dividends and in the distribution of corporation assets in the event of a liquidation.
+What is a commitment?
+A commitment establishes a line of credit and allows a firm to borrow up to a predetermined limit.
+What is the difference between a conventional bond and a floating-rate bond?
+A conventional rate bond has a fixed-dollar obligation, while a floating-rate bond has adjustable payments. 
+What is the only way changes in capital structure benefit stockholders?
+Only if the value of the firm increases. 
+Why does MM Proposition II under no taxes suggest a positive relationship between the expected return on equity and leverage?
+Because the risk of equity increases with leverage.
+What type of capital structure should managers choose that will be most beneficial to a firm’s stockholders?
+One that they believe will have the highest firm value.
+What does the MM Proposition I (no taxes) illustrate?
+The value of the levered firm is the same as the value of the unlevered firm.
+What does the MM Proposition II (no taxes) illustrate?
+The expected return on equity is positively related to leverage.  
+How does the ownership of the firm’s assets change when a firm goes into bankruptcy?
+Ownership is legally transferred from the stockholders to the bondholders.
+What are the two types of protective covenants?
+Negative covenants and positive covenants. 
+Who are the claim holders for marketable claims?
+Stockholders and bondholders.
+At what point is a firm’s capital structure optimized?
+Where the marginal subsidy to debt equals the marginal cost. 
+What are the two rules of the pecking-order theory?
+The first rule is to use internal financing and the second rule is to issue the safest securities first. 
+What is the effect of a stock dividend?
+To increase the number of shares that each owner holds. 
+What are the two reasons for reverse stock split?
+Increase price to meet a stock exchange minimum and to buy out any stockholders who have less than a certain number of shares. 
+When are dividends taxed?
+Upon payment. 
+What is the information content effect of a dividend?
+When the rise in stock price follows the dividend signal.
+What are the three ways share repurchases typically accomplished?
+Open market purchases, tender offer and targeted repurchase. 
