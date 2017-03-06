@@ -418,3 +418,145 @@ What is the information content effect of a dividend?
 When the rise in stock price follows the dividend signal.
 What are the three ways share repurchases typically accomplished?
 Open market purchases, tender offer and targeted repurchase. 
+What is capital structure?
+A firm’s financing proportion of debt and equity.
+What is the role of a financial manager?
+Make financial decisions and create value based on the firm’s financial statements.
+What is a Limited Liability Company (LLC)?
+A hybrid of a partnership and corporation in which the owners have limited liability and taxed at personal income rate.
+What is a corporation?
+A legal entity that has all the legal powers of a natural person except for the right to vote.
+What is needed to form a corporation?
+Articles of incorporation and bylaws.
+What needs to be included in the articles of incorporation?
+Name of the corporation, intended life of the corporation, business purpose, number of shares of stock for issuance, rights granted to shareholders, and number of initial board members.
+What are bylaws?
+Rules used by the corporation to regulate daily business dealings.
+Who are stakeholders?
+People or businesses that have an interest in the firm’s decisions, such as employees, customers, creditors, and the government.
+What is the equivalent to assets on the balance sheet?
+Liabilities plus stock holder’s equity.
+What does a financial manager need to be aware of when analyzing a balance sheet?
+Liquidity, debt versus equity, and value versus cost.
+What is the term that refers to the ease at which assets can easily be converted to cash?
+Liquidity.
+What types of assets are the most liquid?
+Current assets, which are assets that will be converted within one year.
+Which assets are the least liquid?
+Fixed assets.
+What are liabilities?
+Obligations of the firm that require a cash payment within a specified timeframe.
+What is market value?
+The price at which buyers and sellers agree to trade.
+What is book value?
+The historical cost of an asset bought or sold.
+What is equivalent to income on the income statement?
+Revenue minus expenses.
+What is the cash flow generated from business activities including the sale of goods and services?
+Operating cash flow.
+How do you calculate net working capital?
+Current assets minus current liabilities.
+What are financial ratios?
+Ratios that deal with liquidity and how bills are paid over the short term.
+What is financial leverage?
+The ability to pay bills over the long term.
+What is the equity multiplier?
+The amount of which the capital structure is increasing the risk and return.
+How is current ratio calculated?
+Current assets divided by current liabilities.
+What formula can be used to make sure interest payments will be covered?
+Times interest earned ratio (EBIT/interest).
+What formula can be used to illustrate how much in sales can be generated from a particular asset?
+Total asset turnover (sales/assets).
+What ratio indicates how much of sales turn into income?
+Profit margin (net income/sales).
+What are pro forma financials?
+Projected financials which can show contradictions in a firm’s financial plan.
+What is total asset turnover?
+For every dollar in assets and percentage is earned in sales. (Sales/total assets).
+What is the plowback ratio?
+The ratio of all retained earnings not paid out. (1 minus cash dividends divided by net income).  
+What is a payment that is made for every period in an infinite number of periods?
+Perpetuity.
+What is payback?
+The time it takes to receive the value of an investment ignoring the time value of money.
+What does payback not take into account?
+Time value of money, risk of the project, cash flows after the payback amount has been met.
+In what situation can profitability index be useful?
+When ranking projects to decide which projects should be accepted based on capital budgeting.
+What is not included in incremental cash flows?
+Sunk costs.
+What costs are not included in capital budgeting?
+Allocated costs and marketing costs.
+What is capital gain?
+The number of shares of stock multiplied by a new given market price.
+What is defined as the dividend per year multiplied by the number of shares?
+The dividend paid.
+Which type of stock will have the highest standard deviation?
+Small company stocks.
+True stocks differ in what two areas?
+The mean and the standard deviation.
+What describes the measure of how wide the dispersion in the expected return on stock?
+The variance.
+What is excess return?
+The amount of return that exceeds the risk free rate of return.
+What is the investor’s reward for bearing risk?
+The Sharpe ratio. (Average return/standard deviation)
+What do we use to calculate a future expected return within the next period?
+The arithmetic mean.
+What does the geometric average calculate?
+A holding period’s expected return within a specific time period, such as 5 years.
+What is portfolio theory?
+Historical returns that can be analyzed to calculate expected returns.
+What is the cost of equity capital?
+The expected return on the stock.
+What is expected return?
+The best guess estimate of what the return on stock will be within the next period.
+What is covariance?
+The analysis of how stocks move together.
+What is correlation?
+The analysis of how two stocks are related to each other.
+What will lower the standard deviation of a portfolio?
+Adding assets to the portfolio so long as the assets are not perfectly correlated.
+What is the market portfolio?
+A portfolio of stocks held by every investor.
+What is the main rule for net present value (NPV)?
+Accept a project if the net present value is greater than zero.
+What is NPV?
+The contribution of a project to the firm’s overall value.
+What is internal rate of return (IRR)?
+The number that considers cash flows to find the return on a project.
+What is a sunk cost?
+A cost that has already been paid.
+Which calculation is the same whether it is calculated as real or nominal numbers?
+Net present value (NPV).
+What types of decisions can be made to change a stock’s beta?
+Changes in industry borrowing.
+What is the rate at which cash flows are discounted for risky projects?
+Weighted average cost of capital (WACC)
+What would the effect be of using weighted average cost of capital (WACC) for an entire portfolio?
+More risker projects would be accepted and more low-risk projects would be rejected.
+What is the capital asset pricing model (CAPM)?
+The relationship between the expected return on stock and beta.
+How do investors calculate CAPM?
+The risk free rate plus the beta of a security multiplied by the difference between the expected return on the market and the risk-free rate.
+What is beta?
+The measure of sensitivity to the market within a portfolio.
+If a firm increases their financial leverage what also increases?
+Beta
+If a firm increases their debt-to-equity ratio what also increases?
+Beta
+In terms of leverage, does the equity of a levered firm have a higher beta?
+Yes, the beta of a levered firm is higher than an unlevered firm.
+What is left out of the cost of financing?
+Flotation costs.
+What does long term financing increase?
+Debt-to-equity ratio
+What is considered the issuing of debt to buy back equity?
+Long term debt financing.
+Who has a residual claim on the assets of a firm?
+Common stock holders.
+What can affect the agency problem?
+Voting rights of shareholders.
+What are types of voting rights?
+Cumulative, straight, and proxy.
