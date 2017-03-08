@@ -560,3 +560,143 @@ What can affect the agency problem?
 Voting rights of shareholders.
 What are types of voting rights?
 Cumulative, straight, and proxy.
+What is equity?
+Equity is a residual claim.
+What does liquidity mean?
+Liquidity means how quickly you can sell something without having to discount it.
+What is kind of cost is a debt replacement?
+Debt replacement is a hidden cost.
+How do you calculate operating cash flow?
+operating cash flow = earnings before income taxes + depreciation – taxes
+How do you calculate the debt to equity ratio?
+you divide debt by equity
+How do you calculate the equity multiplier?
+you divide debt by equity and subtract 1
+How do you calculate total asset turnover?
+You divide sales by assets
+What are pro forma financial statements?
+Pro forma financial statements are projected financial statements.
+What is the dividend payout ratio?
+The dividend payout ratio is the proportion of net income the company pays in dividends
+What is a growing perpetuity?
+A growing perpetuity is when the cash flows grow at a fixed rate each period.
+What is an annuity?
+An annuity is a fixed payment for a fixed number of periods.
+What is discounted payback?
+Discounted payback is when each cash flow is discounted at a risk adjusted rate.
+What is a sunk cost?
+A sunk cost is a cost we already incurred.
+Are sunk costs included in incremental cash flows?
+The sunk costs already happened and therefore they are not included.
+What is the real rate?
+The real rate is a change in what I can buy.
+What is the nominal rate?
+The nominal rate is a change in the dollars received.
+What is the bottom up approach?
+operating cash flow = net income + depreciation
+What is the top down approach?
+operating cash flow = (sales-costs)(1-tax rate) + Depreciation*tax rate 
+What is marginal tax rate?
+The marginal tax rate is the rate you would pay if you earned one more dollar.
+What is the stated interest rate?
+The stated interest rate is the annual interest tare, without any compounding.
+What is APR?
+APR, annual percentage rate, is another name for the stated interest rate.
+What is continual compounding?
+Continual compounding is compounding that happens every single second.
+What is a perpetuity?
+A perpetuity is a non-ending stream of constant cash flows.
+What is an example of an unending cash flow stream?
+Consols, a British bond.
+What is a growing perpetuity?
+A growing perpetuity is when the cash flows are expected to rise indefinitely.
+What is an annuity?
+An annuity is a stream of regular fixed payments.
+What is an annuity due?
+An annuity due is when the annuity is at the beginning of the period, not the end.
+What is capital budgeting?
+Capital budgeting is the decision making process on whether or not to accept or reject a project.
+What are opportunity costs?
+Opportunity costs are the costs that are forgone by accepting another project.
+What are the two types of side effects of determining incremental cash flows?
+erosion and synergy
+What is erosion?
+Erosion is when a new product hurts or reduces sales of an existing product.
+What is synergy?
+Synergy is the new projects increase or help the cash flows of the existing projects.
+What is net working capital?
+Net working capital is the difference between the current assets and current liabilities.
+What is nominal cash flow?
+Nominal cash flows are the actual dollars that are received or paid.
+What is real cash flow?
+Real cash flow is the purchasing power of the cash flows.
+What is a sensitivity analysis?
+A sensitivity analysis shows how sensitive NPV, or another variable, can be to the changing assumptions.
+What is a scenario analysis?
+A scenario analysis is using different scenarios to minimize a problem.
+What is a break-even analysis?
+A break-even analysis provides the amount of sales needed to break-even.
+What are coupon payments?
+Coupon payments are regular interest payments the bondholder receives.
+What is the face value of a bond?
+The face value is the amount that is to be repaid at the end of the loan term.
+What is par value?
+Par value, another name for face value, is the amount to be repaid at the end of the loan term.
+How do you calculate the coupon rate?
+annual coupon divided by the face value
+What is maturity? 
+Maturity is the number of years it takes until the face value of the bond is paid back.
+What is the interest rate that is required by the market called?
+It is called the bond’s yield to maturity, YTM, or the bonds yield for short.
+What are some common types of compounding?
+Annual, semiannual, quarterly, and more.
+What is interest rate risk?
+Interest rate risk is the risk from fluctuating interest rates, affecting the holder of the bond.
+Who are the two main bond-rating firms?
+Moody’s and Standard & Poor’s.
+How do the bond-rating firms rate credit worthiness?
+They rate credit-worthiness by how likely the firm is to default on the loan.
+What is the highest rating a firm can have?
+AAA or Aaa.
+What is the expected return?
+The expected return is the return an individual expects a stock to earn.
+What is the standard deviation?
+Standard deviation is the square root of the stocks variance.
+What is systematic risk?
+Systematic risk effects all assets.
+What is unsystematic risk?
+Unsystematic risk effects a single asset.
+What is unsystematic risk also called?
+Idiosyncratic risk.
+What is systematic risk also called?
+Market risk.
+What is the discount rate also called?
+The discount rate can also be called the required rate or the cost of capital.
+What three things do we need to know to estimate a firm’s cost of capital?
+We need to know the risk-free rate, the market risk premium, and the stock’s beta.
+What are the two types of protective covenants?
+Negative covenants and positive covenants.
+What is a positive covenant?
+A positive covenant specifies something the company agrees to or something they must abide by.
+What is a negative covenant?
+A negative covenant prohibits or limits certain actions that a company can do.
+What are marketable claims?
+Marketable claims can be bought and sold in financial markets.
+Can nonmarketable claims be sold in a financial market?
+No, nonmarketable claims cannot be sold in financial markets.
+What does paying a cash dividend reduce?
+Paying a cash dividend reduces retained earnings and the corporation’s cash.
+What is a stock split?
+A stock split increases the number of outstanding shares.|
+What is a stock repurchase?
+A stock repurchase is when a company simply repurchases some of their stock.
+What is a stock dividend?
+A stock dividend is when a dividend is not paid in cash; it is paid in shares of stock.
+What is a prospectus also called and why?
+A prospectus is also called a red herring because there are big bold red letters on the cover page.
+What is the difference between a competitive offer?
+A competitive offer awards the securities to the highest bidder.
+What is a negotiated offer?
+A negotiated is when the issuing company uses one underwriter. 
+Do leases generate agency costs?
+Yes, leases do generate agency costs.
