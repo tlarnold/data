@@ -640,6 +640,146 @@ What are coupon payments?
 Coupon payments are regular interest payments the bondholder receives.
 What is the face value of a bond?
 The face value is the amount that is to be repaid at the end of the loan term.
+Who is paid first, debt holders or equity holders in a corporation?
+Debt holders are paid first because equity holders have a residual claim.
+What happens to earning when firms leverage up?
+Leveraging up magnifies the firms gains and losses.
+What is a marginal tax rate?
+The marginal tax rate is the amount that a firm will be taxed on the next dollar that they earn.
+What is the average tax rate?
+The average tax rate of a firm is the total they have paid in taxes divided by their total income.
+What is liquidity?
+Liquidity means how quickly something can be sold without a large discount.
+Is the balance sheet assets in market value or book value?
+The balance sheet reports assets at book value.
+What is usually a business’s largest non-cash expense?
+A business’s largest non-cash expense is usually depreciation.
+What is Networking Capital?
+Networking Capital is current assets minus current liabilities.
+Would buying more inventory using cash affect Networking Capital?
+No, because both cash and inventory are current assets so the firm’s total current assets would not change.
+What is the formula for Operating Cash Flow?
+The formula for Operating Cash Flow is EBIT plus depreciation minus taxes.
+What is a main problem with Operating Cash Flow?
+Operating Cash Flow ignores large cash outflows known as capital expenditures.  
+How do you standardize financial statements?
+You can standardize financial statements by common sizing them.
+What is common sizing?
+When the entire financial statement is stated in percentages.
+What does the current ratio tell you about a company?
+The current ratio shows if a company has enough current assets to pay current liabilities.
+What type of investors would be interest in liquidity ratios?
+Short term investors, like commercial paper investors, would be interest in this ratio.
+What type of investors would be interested in long-term solvency ratios?
+Equity investors would be interested in long-term solvency ratios.
+What is the quick ratio formula?
+The quick ratio formula is current assets minus inventory, then divided by current liabilities.
+What are the asset use efficiency ratios?
+The asset use efficiency ratios are total asset turnover and inventory turnover.
+What is the formula for total asset turnover?
+A general formula for total asset turnover is sales divided by assets.
+Are ratios the same at every company?
+No, different companies define ratios differently.
+When should you use ratio analysis?
+Ratios are useful to compare companies overtime or to compare companies in the same industry.
+What is enterprise value?
+Enterprise value is how much a company is worth in total, not just the firm’s equity.
+The Du Pont identity shows that ROE is affected by what?
+ROE is affected by operating efficiency, asset use efficiency, and financial leverage.
+How is operating efficiency measured in the Du Pont identity?
+Operating efficiency is measured by the profit margin ratio.
+How is asset use efficiency measured in the Du Pont identity?
+Asset use efficiency is measured by the total asset turnover ratio.
+How is financial leverage measured in the Du Pont identity?
+Financial leverage is measured by the equity multiplier ratio.
+What is the internal growth rate?
+The internal growth rate is the growth rate the firm can maintain with only internal financing.
+What is the sustainable growth rate?
+The sustainable growth rate is the maximum growth rate a firm can maintain without increasing financial leverage.  
+What is the discount rate?
+The discount rate is the required rate of return on a project.
+What is Net Present Value?
+Net Present Value is the sum of discounted cash flows of a project minus the original investment.
+What is a perpetuity?
+A perpetuity is a constant stream of cash flows that continues indefinitely. 
+What is a growing perpetuity?
+A growing perpetuity is a continues stream of cash flows that will grow continuously. 
+What is an annuity?
+An annuity is a constant stream of cash flows that will last for a set amount of time. 
+What is the difference between an annuity due and a regular annuity?
+An annuity due has payments that occur at the beginning of the period while a regular annuity has payments at the end of the period.
+What is a growing annuity?
+A growing annuity is a set number of payments that grows at a continuous rate.
+What are key aspects of the NPV method of capital budgeting?
+The key aspects are NPV uses cash flow, it uses all cash flows of the project, and discounts cash flow properly. 
+What are some of the problems with the payback method?
+Problems with the payback method are it does not consider all relevant cash flows, ignores time value of money, and does not take into the risk of the cash flows.  
+What are some good aspects the payback method?
+The good thing about the payback method is that it is simple and can be done easily for projects of little consequence. 
+What are some problems with IRR?
+Problems with IRR are multiple solutions with change in sign, losing scale, and still need to find the discount rate which means it is no simpler than NPV.
+What is the rule for accepting and rejecting of IRR?
+The rule of IRR is if the IRR is greater than the discount rate than accept the project, and vice versa.
+What is the formula for the profitability index?
+The formula for the profitability index is present value of cash flows after investment divided by the initial investment. 
+What is the rule for accepting and rejecting the Profitability Index?
+If the PI is greater than 1 then accept the project and vice versa. 
+What are some problems with the Profitability Index?
+Some problems with the Profitability index is that it loses scale and is just a ratio of NPV.
+Would a small or large company be more likely to use the payback method?
+A small company would be more likely to use payback due to simplicity.
+What are incremental cash flows?
+Incremental cash flows are cash flows due directly to the project.
+What is a sunk cost?
+Sunk cost are cost that have already occurred and should not be considered when evaluating a project.
+What is an opportunity cost?
+An opportunity cost is the missed cash flow from choosing one project over another.
+What does erosion of a product mean?
+Erosion of a product is when selling one product hurts the sales of another product.
+Does depreciation help protect earnings from taxes?
+Yes, depreciation is a tax shield and protects earnings from taxes.
+What is the difference between the real rate and nominal rate?
+Nominal rate is how much money you will get, while real rate shows how much each of those dollars will actually be able to buy.
+How do I decide between investments of unequal lives?
+When deciding between investments with unequal lives you should choose the project with the lower equivalent annual cost.
+How do I decide to replace a machine?
+When deciding whether or not to replace a machine, you should use equivalent annual cost.
+What is sensitivity analysis?
+Sensitivity analysis determines how sensitive a projects NPV is to its underlying assumptions.
+What are real option?
+Real options are adjustments that a firm can make after a project is accepted.
+Does NPV without real options underestimate or overestimate the true value of a project? 
+NPV without real options underestimates the value of a project.
+What are the types of real options?
+The types of real options are expand, abandon, and timing options.
+What does the sharp ratio measure?
+The sharp ratio measures reward for bearing a unit of risk.
+Can I use the sharp ratio for a single stock?
+No, the sharp ratio is only usable for portfolios, not single stocks.
+What is a common measure of variability of stocks?
+The variance is a common measure of variability.
+What is the expected return on a portfolio?
+The expected return on a portfolio is the weighted average of the expected returns on the individual securities within the portfolio.
+What is systematic risk?
+Systematic risk is risk that affects almost all assets.
+What is unsystematic risk?
+Unsystematic risk is risk that affects a single or small group of assets.
+What is proxy voting?
+Proxy voting is when a shareholder grants authority to someone else to vote their shares.
+What are some characteristics of debt?
+Differences between debt and equity are debt holders do not have ownership in a firm, corporation’s payments of interest are tax deductible, and unpaid debt is a liability of the firm. 
+Are corporations required to pay dividends?
+No, corporations are not required to pay dividends.
+Are dividend payments tax deductible?
+No, dividends payments are not tax deductible.
+What is preferred stock?
+Preferred stock is stock that has preference over common stock in payment of dividends and distribution of assets.
+What is a debentured bond?
+A debentured bond is an unsecured bond that no specific asset was offered as collateral.
+What is a call provision?
+A call provision allows a firm to repurchase its debt early.
+What is a protective covenant?
+A protective covenant limits what a company can do during the term of the loan. 
 What is par value?
 Par value, another name for face value, is the amount to be repaid at the end of the loan term.
 How do you calculate the coupon rate?
