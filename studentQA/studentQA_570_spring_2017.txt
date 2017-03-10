@@ -840,3 +840,143 @@ What is a negotiated offer?
 A negotiated is when the issuing company uses one underwriter. 
 Do leases generate agency costs?
 Yes, leases do generate agency costs.
+What are fixed assets?
+Fixed assets are those that will last a long time, such as buildings.
+What are current assets?
+Current assets are assets that have short lives, such as inventory.
+What is capital budgeting?
+Capital budgeting is the process of making and managing expenditures on long-lived assets.
+Equity shares include what?
+Stock certificates
+What is capital structure?
+Capital structure is the proportions of the firm’s financing from current and long-term debt and equity.
+How is net working capital calculated?
+Current assets minus current liabilities.
+What is the function of a Controller?
+The controller handles the accounting function, including taxes, cost and financial accounting, and information systems.
+What is the function of a Treasurer?
+The Treasurer handles cash flows, manages capital expenditures decisions, and makes financial plans.
+A sole proprietorship is owned by how many people?
+1
+What is the cheapest form of business to form?
+Sole Proprietorship
+All profits of sole proprietorships are taxed as what?
+Individual income
+A sole proprietorship has what kind of liability?
+A sole proprietorship has unlimited liability.
+The life of the sole proprietorship is limited by what?
+The life of the sole proprietorship is limited to the life of the sole proprietor.
+What are the two categories of partnerships?
+The two categories of partnerships are general and limited.
+General partners are liable for what percent of the debts of the partnership?
+100%
+What type of partnership permits the liability of some partners to be limited to the amount of cash each has contributed to the partnership?
+Limited Partnership
+A general partnership is terminated when what occurs?
+A general partner dies or withdraws.
+How is income from a partnership taxed?
+Income from a partnership is taxed as personal income to the partners.
+A corporation is a what?
+A corporation is a distinct legal entity.
+What are bylaws?
+Bylaws are the rules to be used by the corporation to regulate its own existence.
+Who do bylaws concern?
+Bylaws concern shareholders, directors, and officers.
+Who generally controls the corporation’s direction, policies, and activities?
+Shareholders generally controls the corporation’s direction, policies, and activities.
+What is the life of a corporation?
+Unlimited life.
+What is the liability limit for shareholders?
+Shareholders liability is limited to their investment.
+What is a major tax disadvantage of corporations?
+A major disadvantage of corporations is double taxation.
+The goal of financial management is to what?
+The goal of financial management is to maximize the current value per share of the existing stock.
+The relationship between stockholders and management is called?
+An agency relationship.
+A conflict of interest between the principal and the agent is a what?
+Agency problem.
+In response to corporate scandals, such as Enron, Worldcom, Tyco, and Adelphia, congress enacted what act?
+Sarbanes-Oxley
+Who was created by Sarbox to establish new audit guidelines and ethical standards?
+Public Companies Accounting Oversight Board (PCAOB)
+Liabilities + Owner’s Equity = ?
+Assets
+The ease and quickness with which assets can be converted to cash is what?
+Liquidity
+Assets that will be turned into cash within a year are?
+Current Assets
+What is composed of raw materials to be used in production, work in process, and finished goods?
+Inventory
+What are the least liquid kind of asset?
+Fixed Assets
+Property, plant, and equipment are examples of what?
+Fixed Assets
+Obligations that require a payout of cash within a stipulated period is what?
+A Liability.
+Assets minus liabilities equal ?
+Owner’s Equity
+The accounting value of a firm’s assets is referred to as?
+Book Value
+Under GAAP, audited financial statements of firms in the US must carry their fixed assets at what?
+Cost
+What is the price at which buyers and sellers would trade assets?
+Market Value
+Revenue minus Expenses equal?
+Income
+An example of a noncash transaction is what?
+Depreciation
+Current Assets minus Current Liabilities equal?
+Net Working Capital
+Earnings before interest plus depreciation minus taxes is known as what?
+Operating Cash Flow
+EBITDA stands for?
+Earnings before interest, taxes, depreciation, and amortization.
+Current Assets divided by current liabilities equal?
+Current Ratio
+The Quick Ratio is also known as?
+Acid Test
+EBIT divided by Interest equals?
+Times interest earned ratio
+Receivable turnover can be calculated as?
+Sales divided by Accounts Receivable
+Days’ Sales in Receivables is calculated as?
+365 Days divided by Receivables Turnover
+What measures how the stockholders fared during the year?
+Return on Equity
+Net Income divided Total Equity equals?
+Return on Equity
+These measures are intended to measure how efficiently the firm uses its assets and how efficiently the firm manages its operations.
+Profitability Measures
+What is the value of a sum after investing over one or more periods?
+Compound value
+What is the name for interest that is reinvested?
+Compound interest
+What is total dollar return?
+The sum of the dividend income and the capital gain or loss on the investment.
+What is the change in the price of a stock divided by the initial price?
+Capital Gain
+What common stock portfolio is based on the Standard & Poor’s Composite Index?
+Large-company common stocks
+What stock portfolio corresponds to the bottom fifth of stocks traded on the New York Stock exchange?
+Small Company Common Stocks
+What is a portfolio of high quality corporate bonds with a 20 year maturity?
+Long-Term corporate bonds
+Long-Term US Government Bonds how a maturity of how long?
+20 years
+Standard Deviation is a common measurement of what?
+Variability or dispersion
+Covariance and correlation measure what?
+How two random variables are related.
+When a firm has extra cash, it can do what?
+It can pay out the cash as a dividend or invest in a project.
+What bonds are as close to risk free as possible?
+Treasury bills and US Bonds.
+Beta of a stock is determined by what characteristics of a firm?
+The cyclical nature of the revenues, operating leverage, and financial leverage.
+What term describes firms that do well in the expansion phase of the business cycle and do poorly in the contraction phase?
+Cyclicality of revenue
+Firms with high fixed costs and low variable costs are generally said to have high what?
+Operating leverage
+Financial leverage refers to a firm that what?
+Relies on debt.
