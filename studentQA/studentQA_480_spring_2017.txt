@@ -78,6 +78,86 @@ What are examples of the influential factors of international trade?
 Inflation, national income, government policies, and exchange rates.
 What is intracompany trade?
 Intracompany trade is when companies purchase products that are produced by their subsidies.
+What is an agency problem?
+a conflict of goals between a firm’s managers and shareholders 
+What are some the common methods that MNCs use to improve their internal control process?
+establish a centralized database of information, ensure all data is reported consistently among subsidiaries, implement a system that automatically checks data for discrepancies
+Who may be able to prevent agency problems in an MNC?
+a parent corporation
+What percentage of small businesses account for U.S exports?
+20%
+What is the main goal of an MNC?
+maximize shareholder wealth
+What are the most common ways firms conduct international business?
+international trade, licensing, franchising, joint venture, acquisitions of foreign firms and formation of foreign subsidiaries
+What does the valuation model of an MNC show?
+It shows that the MNC valuation is affected when its foreign cash flows rise or when the MNCs required rate of return decreases
+What factors affect international trade?
+inflation, national income, government policies, exchange rates
+What is a tariff?
+a tax on an imported good
+Where does the most common type of foreign exchange transaction occur?
+spot market 
+What is the formula to find the bid/ask spread of a transaction?
+bid/ask spread= ask rate-bid rate/ ask rate
+What is a currency call option?
+a currency call option provides the right to buy a specific currency at a specific price within a specific period of time
+What is a currency put option?
+a currency put option provides the right to sell a specific currency at a specific price within a specific period of time.
+What is a Eurobond?
+A Eurobond is a bond that is sold in countries other than the country of the currency denominating the bond. 
+What are international money markets composed of?
+international money markets are composed of several large banks that accept deposits and make short term loans in various currencies
+What are the 5 common approaches when diversifying international stock?
+direct purchase of foreign stock, investment in MNC stock, American depository receipts, exchange-traded funds, international mutual funds.
+When do banks invest in currency in the foreign market?
+when they expect that a certain currency is valued lower than it should be 
+What is a forward contract?
+An agreement between a corporation and financial institution to exchange a specific amount of currency at a forward rate
+What is a non-deliverable forward contract?
+A non-deliverable forward contract is an agreement regarding a specific amount of currency, in a specific exchange rate in a specific future date. 
+Do corporations have open or closed positions in purchasing foreign currency in the future?
+open 
+What is an exercise price?
+the price at which the owner of a call option is allowed to buy the currency at 
+When are call options desired?
+When the buyer wants to lock in the maximum price to be paid in the future
+In a fixed exchange rate system, do exchange rates fluctuate in a wide or narrow boundary?
+narrow boundary 
+What is revaluation?
+Revaluation is the upward adjusted of the exchange rate by a central bank
+What is appreciation?
+the increase in the value of currency that is adjusted with market conditions
+How are exchange rate values determined in a freely floating exchange rate system?
+they are determined by market forces without government intervention
+What is a sterilized intervention?
+When the Fed intervenes in the foreign exchange market and helps offset transactions in the Treasury security markets.
+How can governments affect the supply, demand and equilibrium of currency values?
+By using direct intervention
+Does a strong US dollar intensify foreign competition?
+yes, it does. 
+Does a strong US dollar reduce or increase inflation?
+reduce
+What is arbitrage?
+Capitalizing on a discrepancy in quoted prices by making a risk free profit
+What three ways is arbitrage presented in the international money markets?
+locational arbitrage, triangular arbitrage and covered interest arbitrage
+When can you use triangular arbitrage?
+When there is a discrepancy in the cross exchange rate between two currencies.
+What is the interest rate parity?
+the theory states that the size of the forward premium should be equal to the interest rate difference between two currencies 
+What is the absolute form of PPP?
+consumers will shift their demand to wherever prices are the lowest.
+How can the PPP be tested in the long run?
+by using the real exchange rate between two currencies over time
+What is the international fisher effect (IFE)?
+the IFE specifies a relationship between interest rates of two countries and their exchange rates
+What type of currency does forecasting closely follow?
+currency that has exchange rates that fluctuate continuously 
+What rates does the market-based forecast use?
+spot rate or the forward rate
+What is translation exposure?
+the exposure of the MNC’s consolidated financial statements to exchange rate fluctuations
 
 
 
