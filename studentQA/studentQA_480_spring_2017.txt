@@ -158,6 +158,83 @@ What rates does the market-based forecast use?
 spot rate or the forward rate
 What is translation exposure?
 the exposure of the MNC’s consolidated financial statements to exchange rate fluctuations
-
-
-
+What is a money market hedge?
+The use of international money markets to match future cash flows for a currency.
+Is a currency call option holder obligated to buy the currency at the set price?
+No, the holder has the option to exercise this right.
+What is weak-form efficiency?
+It implies that all past and current exchange rate information is reflected in today's exchange rate.
+What is semi-strong form efficient?
+Semi-strong form efficiency assumes that all public information is reflected in the currency exchange rate.
+What is strong-form efficiency?
+In foreign exchange markets, that means all private and public information is reflected in the currency exchange rate.
+What is a forward contract?
+An agreement to exchange a certain amount of currency at a certain rate in the future.
+What facilitates the trading of forward contracts?
+Forward contracts are facilitated by a forward market.
+Who is involved in a forward contract agreement?
+A corporation and a financial institution are involved.
+What is the bid/ask spread?
+The difference between a currencies buying and selling price.
+Do multinational corporations use forward contracts?
+Yes, they use them to hedge their imports.
+How is the percent change in foreign currency calculated?
+Percent change in foreign currency value= (S-St-1)/(St-1) where S= spot rate and St-1= spot rate at an earlier date.
+How do you calculate real interest rate?
+Real interest rate = nominal interest rate - inflation rate.
+What is the relationship between interest rates and inflation rates sometimes called?
+The Fisher effect.
+How can you calculate the return on stock to a US investor who invests in a foreign stock?
+R$ = (1+R)(1+e)-1 Where R=return on stock and e= percent change in the exchange rate.
+What three barriers have limited international trading of stock?
+Transaction costs, information costs, and exchange rate risk.
+How have transaction costs been reduced for the international stock exchanges?
+One way transaction costs have been reduced is by combining exchanges in a country.
+How have information costs been reduced for international stock exchanges?
+The internet is the main source of reduced information costs.
+How can someone reduce exchange rate risk when dealing in foreign stocks?
+The investor can take short term positions in foreign stocks to reduce their risk.
+When talking about International Financial Management, what does MNC stand for?
+Multinational Corporation.
+What is the agency problem?
+The agency problem appears when there is conflicting views between the shareholders and the managers of a corporation.
+What are the three theories for why a firm pursues international business?
+The theory of comparative advantage, imperfect markets, and product life cycle.
+What are the four forecasting techniques?
+Technical, fundamental, market based, and mixed.
+How do you perform a technical forecast?
+To do a technical forecast you use past exchange rate data to predict the future of the currency.
+How do you perform a fundamental forecast?
+You solve for the percent change in the spot rate by using the relationships between economic variables.
+What are some factors that influence the spot rate?
+Change in government control, change in expectations of future rates, change in income, and change in interest rates.
+What is used in a market-based forecast?
+The spot rate and the forward rate.
+What is a market-based forecast?
+A forecast that uses market indicators as forecasting tools.
+What is a mixed forecast?
+A forecast that combines multiple forecasting techniques. These can include a technical, fundamental, and market-based techniques.
+What do most multinational corporations prefer to use when doing forecasting?
+Most MNCs prefer to use mixed forecasts.
+What can firms do if they lack the expertise or manpower to make their own forecasts?
+Firms can choose to pay for forecasting services that specialize in making forecasts.
+Are forecasts made by corporations or forecasting services perfect?
+No, forecasts are rarely perfect and are subject to forecasting errors.
+Is the forecasting error likely to be higher in the long-run or short-run?
+Forecasting becomes harder the longer out you try to forecast, forecasts for 10 years in the future are likely to have large errors.
+What can be used to forecast exchange rate volatility?
+Recent exchange rate volatility, historical time series of volatility, and implied standard deviation derived from currency options.
+What are the three forms of exchange rate exposure a MNC faces?
+Transaction exposure, economic exposure, and translation exposure.
+How does the International Fisher Effect theory explain exchange rate changes?
+It uses the interest rates of countries to explain the exchange rate changes.
+What does the Fisher effect suggest about nominal interest rates?
+The Fisher effect suggests that nominal interest rates contain two components, the expected interest rate and the real rate of interest.
+What do foreign exchange markets allow?
+They allow the exchange of one currency for another at set bid and ask prices.
+What is a parallel loan?
+The agreement to exchange currencies now but also re-exchange them at a later date at a predetermined exchange rate.
+How can a MNC hedge for long-term transaction exposure?
+They can use Long-term forward contracts and parallel loans.
+What are some ways a MNC can reduce risk if a perfect hedging technique doesnt exist?
+They can use leading and lagging, cross-hedging, and currency diversification.
