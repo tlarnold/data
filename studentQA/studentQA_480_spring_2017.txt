@@ -238,3 +238,83 @@ How can a MNC hedge for long-term transaction exposure?
 They can use Long-term forward contracts and parallel loans.
 What are some ways a MNC can reduce risk if a perfect hedging technique doesnt exist?
 They can use leading and lagging, cross-hedging, and currency diversification.
+What is a multinational corporation (MNC)?
+Firms that engage in some form of internation business.
+Goal of MNC's is?
+For the managers is to maximize the value of the firm.
+Conflict of goals between a firm's managers and shareholders is?
+Agency Problem
+The sarbanes oxley Act (SOX) does what?
+Ensures a more transparent process for managers to report on the productivity and financial condition of their firm.
+Comparative advantages is?
+When a country specializes in some products, which allows firms to penetrate foreign markets.
+Imperfect market is?
+Conditions where factors of prodcution are some what immobile.  Costs, and often restrictions related to transfer of labor.
+When firms become established in the home market as a result of some perceived advantage over existing competitors is a?
+Prodcut Cycle Theory.
+What is licensing?
+Obligates a firm to provide its technology, copy righs, patents, trademarks, or trade name in exchange for fees or some other benefits.
+Franchisisng is?
+Obligates a firm to provide a specialized sales or service strategy,support assistance and an initial investment in the franchise for a fee.
+This is a venture that is jointly owned and operated by two or more firms.
+Joint Ventures
+Any method of increasing international business that requires a direct investmet in foreign operations is referred to as a?
+Diret Foreign Investment (DFI)
+The main components of the current account are payment for?
+Merchandise, goods, and services, factor income and transfers.
+Balance of trade is referred to as?
+The difference between total exports and imports.
+Factor income represents?
+Income interest, and dividend payments received by investors on foreign investments in financial assets (securities)
+A third component of the current account is?
+Transfer payments
+The capital account includes?
+The value of financial assets transferred across country borders by people who move to a different country.
+Direct foreign investment represents?
+The investment in fixed asset in foreign countries that can be used to conduct business operations.
+Represents transaction involving long term financial assets between countires that do not affect transfer of control?
+Portfolio Investment
+Counterpricing by competitors is?
+When a country's currency weakens, its prices become more attractive to foreign customers, so then companies lower their prices.
+Privatization is?
+The selling of some of their operations to corporations and other investors.
+This organization was established to provide a forum for multilaterial trade negotiations and to settle trade disputes.
+World Trade Organization (WTO)
+The foreign exchange market allows?
+For the exchange of one currency for another.
+Foreign exchange dealers serve as?
+Intermediaries in the foreign exchange market by exchanging currencies desired by MNC's or individuals
+What is spot rate?
+The exchange rate at which one currency is traded for another in the spot market.
+The bid/ask spread represents?
+The differential between the bid and ask quotes and is intended to cover the costs involved in accommodating requests in exchange.
+Quotations that represent the value of a foreign currency in dollars are referred to as?
+Direct Quotations
+A forward contract is?
+An agreement between a foreign exchange dealer and an MNC that specifies the currencies to be exchanged, exchange rate and date.
+A currency futures contract specifies?
+A standard volume of a particular currency to be exchanged on a specific settlement date.
+A currency call option provides?
+The right to buy a specific currency at a specific price, withing a specific period of time.
+A decline in a currency's value is often referred to as?
+Depreciation
+Currency futures contracts are?
+Contracts specifying a standard volume of a particular currency to be exchanged on a specific settlement date.
+What is a straddle?
+Uses both a put option and a call option at the same exercise price.
+Fixed exchange rate system is a?
+Exchange rate either held constant or allowed to fluctuate only within very narrow boundaries.
+This reduces the value of its currency against other currencise?
+Devalue
+This increases the value of its currency against other currencise?
+Revalue
+In a freely floating exchange rate system?
+Exchange rate values are determined by market forces without invervention by governments.
+The European Cenral Bank is?
+Based in Frankfurt and is responsible for setting monetary policy for all participating European countries.
+When the Fed intervenes in the foreign exchange market without adjusting for change in the money supply it is engaging in a ?
+Nonsterilized Intervention.
+In a sterilized intervention the Fed?
+Intervenes in the foreign exchange market and simultaneously engages in offsetting transaction in the Treasury securities market.
+Arbitrage can?
+Be loosely defined as capitalizing on a discrepancy in quoted prices by making a riskless profit.  
