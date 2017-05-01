@@ -318,3 +318,83 @@ In a sterilized intervention the Fed?
 Intervenes in the foreign exchange market and simultaneously engages in offsetting transaction in the Treasury securities market.
 Arbitrage can?
 Be loosely defined as capitalizing on a discrepancy in quoted prices by making a riskless profit.  
+List foour methods that are used to conduct international business.
+International trade, licensing, franchising, and jont ventures
+What does <MC stand for and what is it defined as?
+MNC stands for multinaltional corporations and they are defined as firms that engage in some form of international business..
+What is NAFTA?
+NAFTA is the North American Free Trade Agreement. It was put into place in 1993. This plan eliminated trade barriers between the U.S., Canada, and Mexico.
+What changed Europe in 1999?
+Several European countries acoped the Euro as their currency for business transactions. This simplified purchases and selling items between nations in Europe. 
+Give four factors that influence a nations economy.
+Inflation, national income, government policies, and exchange rates
+What was the result of the United Nations Monetary and Financial Conference?
+The International Monetary Fund or IMF was formed.
+What are the 5 objectives of the IMF. 
+1. Promote cooperation amoung countries, 2. Promote stability in exchange rates, 3. Provide temporary funds to member countries attempting to correct imbalances, 4. Promote free mobilit of capital funds across contries, 5. Promote free trade.
+What is another name for the World Bank and what are its primary objectives?
+Another name for the World Bank is IBRD which stands for International Bank for Reconstruction and Development. The primary objective is to make loans to countries to enhance economic development.
+What are the two key components of the balance of payments?
+The current account and the capital account.
+In the late 1800's and early 1900's what were the exchange rates dicted by?
+Gold
+Give 3 characteristics of banks that are important to customers who are in need of a foreign exchange. 
+Competitiveness of quote, special relationship with bank, and the speed of the execution. 
+Describe the bid and ask price and also the bid/ask spread.
+The bid price is the price at which you can buy the stock and the ask price is the price of selling the stock. The bid/ask spread represents the difference between the bid and ask price and is intended to cover the costs involved in accommodating requests to exchange currencies. 
+What is a forward contract and a forward rate?
+A forward contract is an agreement between a foreign exchange dealer and an MNC that specifies the currencies to be exchanges. The forward rate is the exchange rate specified within the forward contract which the currencies will be exchanged. 
+What is the Single European Act of 1992?
+With this act capital could flow freely throughout Europe, banks can offer a wide variety of lending and leasing in the EU, Regulations are now similar throughout the EU, and a bank that establishes itself in one of the countries in the EU then it has the right to expand into one or all other EU countries.
+What is LIBOR?
+LIBOR stands for London Interbank Offer Rate. This is the rate commonly charged for loans between banks.
+Give three limitations of hedging the exchange rate risk of an international stock portfolio.
+One, the number of foreign currency units to be converted to dollars is unknown. Second, investors may decide to retain the foreign stocks beyond the initially planned investment horizon. Finally, forward rates for currencies that are less widely traded may not exist or may exhibit a large discount. 
+Name five common approaches for investors attempting international stock diversification.
+Direct purchases of foreign stocks, investment in MNC stocks, American depository receipts, Exchange-traded funds, and International mutual funds. 
+What is the price at which the owner is allowed to buy that currency?
+It is known as the exercise price of the strike price
+What is a currency call option?
+Grants the right to buy a specific currency at a specific price within a specific period of time. 
+What is a currency bull spread?
+A currency bull spread is constructed by buying a call option for a particular underlying currency and simultaneously writing a call option for the same currency with a higher exercise price. 
+Name the most frequent four exchange rates.
+Fixed, freely floating, managed float, or pegged
+Why do central banks commonly manage exchange rates?
+To smooth exchange rate movements, to establish implicit exchange rate boundaries, and to respond to temporary disturbances. 
+What is an arbitrage?
+An arbitrage can be defined as capitalizing on a discrepancy in quoted prices making a riskless profit. 
+Name the four groups of methods used to forecast exchange rates.
+Technical, fundamental, market based, and mixed. 
+What is mixed forecasting? 
+Mixed forecasting is the use of a combination of forecasting techniques because most MNC’s do not believe that one single forecasting technique is consistently superior to the other. 
+How do you measure transaction exposure?
+First the MNC needs to estimate its net cash flows in each currency and then the MNC needs to measure the potential impact of the currency exposure. 
+What is the sensitivity of the firms cash flows to change rate movements referred to as?
+Economic Exposure. 
+An MNC’s degree of translation exposure is dependent upon what?
+The proportion of its business conducted by foreign subsidiaries, the locations of its foreign subsidiaries, and the accounting methods that it uses. 
+Name four hedging techniques.
+Futures hedge, forward hedge, money market hedge, and currency option hedge.
+Hedging a larger amount in currency than the actual transaction amount is called?
+Overhedging 
+What types of firms are attracted to long-term forward contracts?
+A firm that has set up fixed-price exporting or importing contracts over a long period of time and want to protect their cash flow from exchange rate fluctuations. 
+What is cross-hedging?
+Cross-hedging is when the hedged position is in a currency that serves as a proxy for the currency in which the MNC is exposed. 
+What type of diversification can limit the potential effect of any single currency’s movements on the value of an MNC?
+Currency Diversification
+What is IRP?
+IRP stands for interest rate parity. Once a market forces interest rates and exchange rates to adjust such that covered interest arbitrage is no longer feasible.
+What are 3 considerations when discussing the IRP?
+Transaction costs, political risk, and different tax laws
+What does PPP stand for?
+PPP stands for Purchasing power parity. This attempts to quantify the inflation exchange rate relationship.
+Name the two forms of the PPP theory.
+Absolute form of PPP and Relative form of PPP
+Does the PPP consistently occur? Why or why not?
+The PPP does not consistently occur because of confounding effects and because of the lack of substitutes for some traded goods. 
+What does IFE stand for?
+IFE stands for International fisher effect. This theory uses interest rate rather than inflation rate differentials to explain why exchange rates change over time. It is closely related to the PPP. 
+The fisher affect suggest that the nominal interest rate contains two components. What are they?
+One, expected inflation rate, and the real rate of interest. 
