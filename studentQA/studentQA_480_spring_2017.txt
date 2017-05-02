@@ -478,3 +478,83 @@ Floating rate notes?
 Provision of some Eurobonds in which the coupon rate is adjusted over time according to prevailing market rates.
 Managed float?
 Exchange rate system in which currencies have no explicit boundaries, but central banks may intervene to influence exchange rate movements
+What is the commonly accepted goal of an MNC?
+Maximize Shareholder wealth
+What are the comparative advantages that countries like the United States have compared to Jamaica?
+The United States has technological advances, while Jamaica has cheaper labor
+What are some examples of franchises?
+McDonalds, Wendy’s, Subway, Pizza Hut
+Acquisitions allow a firm to what?
+Have full control over their foreign businesses and can quickly obtain a large portion of foreign market share.
+What is a way that a firm can penetrate a foreign market?
+Establishing new operations in foreign countries to produce and sell their goods
+Foreign acquisitions and creating new foreign operations require a?
+Large investment 
+A MNC’s cost of capital is influenced by?
+The return required by its investors.
+Direct foreign investment represents what?
+The investment in fixed assets in foreign countries that could be used to conduct business operations.
+Canada, China, Mexico, and Japan are main exporters of the United States. What percentage are they responsible for in US imports?
+50%
+What are the three barriers that have limited international trading of stocks?
+Transaction costs, information costs, and exchange rate risk
+The Equilibrium exchange rate will change over time with correlation to?
+As supply and demand schedules changes
+What is Globex?
+A computerized platform that matches buy and sell offers for each standardized contract.
+What type of relationship do future contracts and spot rates have?
+If one moves the other will move in accordance to the other
+What do currency options provide?
+The right to purchase or sell currencies at a specified price.
+A strong home currency makes consumers of that country?
+Buy goods from other countries
+In reference to forward premiums across maturity markets. What does the yield curve represent?
+The relationship between the annualized yield of risk-free debt and the time to maturity at a given point in time.
+What is a limitation of Purchasing Power Parity
+The results will vary with the base period used
+What does the potential forecast error for a particular currency depend on?
+The forecast horizon 
+What are the three forms of exchange rate exposure?
+Transaction, economic, translation
+An MNC can create what, when trying to determine the cash received from hedging?
+Contingency Graph
+How does translation exposure occur?
+When an MNC translates each subsidiary’s financial data to its home currency for consolidated financial statements.
+International projects and diversification benefits a firm by reducing what?
+Overall risk
+The ideal DFI solves what problems?
+Unemployment and lack of technology
+What three methods are used to adjust the evaluation of risk?
+Risk-adjusted discount rate, sensitivity analysis, simulation
+What are the two specific factors that an MNC uses to estimate future cash flows
+Target-specific, Country-specific 
+What are the techniques to assess country risk?
+Checklist approach, Delphi technique, Quantitative analysis, Inspection visits, and a combination of techniques
+What is the cost of debt to a firm determined by?
+The prevailing risk-free interest rate in the currency borrowed and the risk premium required by creditors.
+As risk-free interest rates vary among countries what happens to the cost of equity? 
+The cost of equity also varies
+What does a currency swap do?
+It allows firms to exchange currency at periodic intervals.
+What is a plain vanilla swap?
+A standard contract without any unusual contract additions.
+When are open account transactions used?
+When the buyer and seller have a great deal of trust with one another and previous experience with each other.
+What are the three agencies that motivate international trade?
+Export-Import Bank of the United States, Private Export Funding Corporation, Overseas Private Investment Corporation
+If an interest rate parity exists the currency will exhibit?
+A forward premium that offsets the differential between its interest rate and its home interest rate. 
+What techniques are used to optimize cash flows?
+Accelerating cash inflows, Minimizing currency conversion costs, Managing blocked funds, Managing inter-subsidiary cash transfers. 
+What are the three complications that are associated with optimizing cash flows?
+Company-related characteristics, Government restrictions, Characteristics of banking systems. 
+What is the difference between forecasted and realized exchange rate for a given point of time?
+The forecast error.
+What techniques does an MNC use to hedge its payables?
+Futures hedge, Forwards hedge, Money market hedge, Currency option hedge
+The euro enables residents to partake in?
+Cross-border trading and capital flows
+What is needed to construct a currency straddle?
+Selling both a call option and a put option for a specific currency
+What are ‘Red Tape’ barriers in relation to DFIs
+Procedural and documentation requirements
