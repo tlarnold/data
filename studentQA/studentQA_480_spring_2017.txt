@@ -398,3 +398,83 @@ What does IFE stand for?
 IFE stands for International fisher effect. This theory uses interest rate rather than inflation rate differentials to explain why exchange rates change over time. It is closely related to the PPP. 
 The fisher affect suggest that the nominal interest rate contains two components. What are they?
 One, expected inflation rate, and the real rate of interest. 
+What is the Exchange rate mechanism(ERM)? 
+The method of linking European currency values with the European currency unit before the euro
+What problems did (ERM) have in its time.
+The countries were highly influenced by the country with the highest interest rate making it difficult for them to could strengthen their own economy.
+What is locational Arbitrage?
+The process of buying a currency at the location where it is priced cheap and immediately selling it at another location where it is priced higher.
+Is there any risk with locational arbitrage?
+No since the banks act immediately and banks have a bid/ask spread on currencies.
+What is Triangular Arbitrage?
+When currency transactions are conducted in the spot market to capitalize on a discrepancy in the cross exchange rate between two currencies
+Is there any risk with Triangular arbitrage?
+No, since there is no uncertainty about the prices at which you will buy and sell the currencies.
+What is the difference between triangular arbitrage, locational arbitrage, and Covered interest arbitrage?
+In covered interest arbitrage the money is tied up compared to the locational, and triangular arbitrages where money is not.
+Why would a MNC decide to Hedge part or all of its known payables transactions?
+So that it is insulated from possible appreciation of the currency.
+What does the economic exposure calculate?
+The sensitivity of the firm’s cash flows to exchange rate movements.
+What does transaction exposure calculate?
+The sensitivity of the firm’s contractual transactions in foreign currencies to exchange rate movements.
+What is the interbank market?
+When one bank purchases foreign currencies that it has shortages of from other banks
+What is dollarization?
+The replacement of a foreign currency with U.S. dollars.
+What does dollarization eliminate that a currency board does not?
+It eliminates the local currency
+What does the purchasing power parity(PPP) calculate?
+It calculates the Inflation-exchange rate relationship
+What is the fisher effect?
+The theory that nominal interest rates are composed of a real interest rate and anticipated inflation.
+What is appreciation?
+The increase in the value of a currency.
+What is the ask price?
+The price that a trader of a foreign exchange is willing to sell a particular currency.
+What is lagging?
+Strategy used by a firm to stall payments, normally in response to exchange rate projections.
+What is leading?
+Strategy used by a firm to accelerate payments, normally in response to exchange rate expectations
+What is a quota?
+The maximum limit imposed by the government on goods allowed to be imported into a country.
+What does a contingency graph measure?
+The contingency graph measures the profit or loss per unit of a put or call option.
+What is the J-curve effect?
+The effect of a weaker dollar on the U.S trade balance in which initially deteriorates; it improves when U.S. and non-U.S. importers respond to the change in purchasing power that is caused by the weaker dollar.
+ What is a currency board?
+a board designed to maintain the value of the local currency with respect to some other specified currency
+what does the cross-exchange rate reflect?
+The cross-exchange rate reflects the amount of one foreign currency per unit of another foreign currency
+What are American depository receipts (ADRs)?
+Certificates representing bundles of stocks.
+Product cycle theory suggests?
+As a firm matures it will expand into foreign markets in response to foreign demand for its product.
+To assess transaction exposure, an MNC needs to?
+(1) estimate its net cash flows in each currency and (2) measure the potential impact of the currency exposure.
+What is cross-hedging?
+when a currency cannot be hedged, another currency that can be hedged and is  correlated may be hedged instead
+What determines effectiveness of the cross-hedging?
+The two currencies correlation the stronger positive correlation the more effective will be the cross-hedging strategy. 
+Currency diversification?
+Used to reduce an MNC's exposure to exchange rate movements by diversifying its business among numerous countries
+When is currency diversification most effective?
+most effective when the currencies are not highly positively correlated
+real cost of hedging payables is measured by?
+RCHp= cost of hedging payables - cost of payables if not hedged.
+When is there a forecast bias?
+When the forecasting errors are consistently positive or negative over time
+Methods of forecasting exchange rate volatility?
+(1) recent exchange rate volatility, (2) historical time series of volatilities, and (3) the implied standard deviation derived from currency option prices
+The Smithsonian agreement called for?
+A devaluation of the U.S. dollar against other currencies.
+What is devaluation?
+A downward adjustment of the exchange rate by a central bank.
+Free floating exchange rate system?
+A monetary system where exchange rates can move due to market forces without intervention by country governments.
+What are yankee stock offerings?
+Offerings of stock by non-U.S. firms in the U.S. markets.
+Floating rate notes?
+Provision of some Eurobonds in which the coupon rate is adjusted over time according to prevailing market rates.
+Managed float?
+Exchange rate system in which currencies have no explicit boundaries, but central banks may intervene to influence exchange rate movements
