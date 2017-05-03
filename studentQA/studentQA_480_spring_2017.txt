@@ -816,3 +816,83 @@ What does appreciation mean?
 Increase in the value of currency
 What is a hedge ratio commonly known as?
 Delta
+What is the primary accepted goal of MNCs?
+To maximize shareholder wealth
+What are agency costs?
+The costs of ensuring that managers maximize shareholder wealth
+What are the three commonly accepted theories as to why firms begin to expand their business internationally?
+Because of the theory of competitive advantage, the imperfect markets theory, and the product lifecycle theory
+What doess IBRD stand for and what is its primary objective?
+The IRBD is the International Bank for Reconstruction and development and its primary objective is to make loans to countries to enhance economic development
+What are three factors that affect portfolio investment?
+Tax rates on interest or dividents, interest rates, and exchange rates
+What are the main components of the current account?
+Payments for: merchandise, factor income, and transfers
+What does a negative current account balance mean?
+A negative current account balance means that a country spent more on trade, income, and transfer payments than it received
+What are the main components of the financial account?
+Payments for: direct foreign investment, portfolio investment, and other capital investment
+What was the primary reason for imposing the Interest Equalization Act?
+To discourage U.S. investors from investing in foreign assets
+What is the main goal of the Sarbanes-Oxley Act?
+To require firms whose stock is listed on the U.S. stock exchange to provide more complete financial disclosure
+What is an exchange rate?
+The rate at which one currency can be exchanged for another
+What is a forward contract?
+An agreement between a corporation and a financial institution to exchange a specified amount of a currency at a specified exchange rate on a specified date in the future
+What is a contract specifying a standard volume of a particular currency to be exchanged on a specific settlement date?
+A currency futures contract
+What do margin requirements do?
+Minimize risk by covering fluctuations in the value of a futures contract
+What does a premium on a call option represent?
+The cost of having the right to buy the underlying currency at a specified price
+What is another name for the seller of a currency call option?
+A writer
+What does the seller of a put option receive?
+The premium paid by the buyer
+What is a fixed exchange rate system?
+Exchange rates are either held constant or allowed to fluctuate within a narrow range
+What does devaluation refer to in terms of exchange rates?
+A central bank's actions to devalue a currency in a fixed exchange rate system
+What does revaluation refer to in terms of exchange rates?
+An upward adjustment of the exchange rate by the central bank
+What are the four primary categories of exchange rate systems?
+Fixed, freely floating, managed float, and pegged
+In what exchange rate system are exchange rate values determined by market forces without intervention by governments?
+Freely floating
+In what exchange rate system is the home currency's value pegged to one foreign currency or an index of currencies?
+Pegged
+What is dollarization?
+The replacement of a foreign currency with U.S. dollars
+Where is the European Central Bank based?
+Frankfurt
+What are the three main reasons that governments commonly manage exchange rates?
+To smooth exchange rate movements, to establish implicit exchange rate boundaries, and to respond to temporary disturbances
+What is it called when the Fed intervenes in the foreign exchange market without adjusting for the change in money supply?
+Nonsterilized intervention
+What is triangular arbitrage?
+When currency transactions are conducted in the spot market to capitalize on a discrepncies in the cross exchange rate between two currencies
+What is the process of capitalizing on the interest rate differential between two countries while covering your exchange rate risk with a forward contract?
+Covered interest arbitrage
+What does IRP stand for?
+Interest rate parity
+What does the yield curve represent?
+The relationship between the annualized yield of risk-free debt and the time to maturity at a given point in time
+What does the PPP theory do?
+Explains how relative inflation rates between two countries can influence an exchange rate as well as provide information that can be used to forecast exchange rates
+Why doesn't PPP consistently occur?
+Because of confounding effects and a lack of substitutes for some traded goods
+What does the IFE explain?
+Why exchange rates change over time due to interest rates
+What are the four general groups of methods for forecasting exchange rates?
+Technical, fundamental, market based, and mixed
+Which forecasting technique involves the use of historical exchange rate data to predict future values?
+Technical forecasting
+Which forecasting technique is based on relationships between economic variables and exchange rates?
+Fundamental forecasting
+What two factors is market-based forecasting based on?
+The spot rate or the forward rate
+Which method of forecasting involved a combination of forecasting techniques?
+Mixed forecasting
+What is the difference between the forecasted and realized exchange rates for a given point in time?
+Forecast error
