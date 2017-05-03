@@ -720,3 +720,99 @@ What is needed to construct a currency straddle?
 Selling both a call option and a put option for a specific currency
 What are ‘Red Tape’ barriers in relation to DFIs
 Procedural and documentation requirements
+What is an arbitrage?
+A zero-risk, zero-net investment strategy that still generates profit.
+What is an agency problem?
+ Conflicts of interest among stockholders, bondholders, and managers.
+ What is the ask price?
+The price at which a dealer will sell a security.
+What does “at the money” mean?
+The exercise price and asset price of an option are equal.
+What is the bid price?
+ The price at which a dealer is willing to purchase a security.
+What does beta measure?
+The systematic risk of a security.
+Comparative advantage suggests an increase in?
+Worldwide production
+What is a bond?
+ A security issued by a borrower that obligates he issuer to make specified payments to the holder over a specified period.
+What type of investor is bullish?
+ optimistic
+ What type of investor is bearish?
+ pessimistic 
+What is a call option?
+ The right to buy an asset at a specified exercise price on or before a specified expiration date.
+What is a callable bond?
+A bond that the issuer may repurchase at a given price in some specified time period.
+What is a collar option?
+Brackets the value of a portfolio between two bounds.
+What is collateral?
+A specified asset pledged against possible default on a bond. 
+What is convexity?
+ The curvature of the price-yield relationship of a bond. 
+What is a bond’s current yield?
+The annual coupon payment divided by its price. 
+ What are discount bonds?
+Bonds that are selling below par value.
+What is diversification?
+Spreading a portfolio over many investments to avoid excessive exposure to any one source of risk.
+What does the efficient market hypothesis predict?
+That the prices of securities fully reflect all available information.
+What is equity?
+Ownership in a firm.
+What is the exchange rate?
+Price of a unit of one country’s currency in terms of another country’s currency.
+What is the exercise price of a bond?
+Price set for calling an asset or putting an asset.
+ What is expected return?
+The probability-weighted average of the possible outcomes.
+What does it mean to hedge?
+Protect a firm from exchange rate fluctuations.
+ When two or more firms share responsibilities and earnings?
+ Joint venture.
+What is an indenture?
+A document defining the contract between the bond issuer and the bondholder.
+What is inflation?
+The rate at which the general level of prices for goods and services is rising.
+What is insider trading?
+Trading by officers, managers, etc. who hold private information allowing them to benefit from buying or selling the stock.
+What is the intrinsic value of a company?
+The present value of a firm’s expected future net cash flows discounted by the required rate of return.
+What is hedging?
+ Investing in an asset to reduce the overall risk of a portfolio.
+ What is inflation?
+The rate at which the general level of prices for goods and services is rising.
+What is the initial public offering for a company?
+Stock that is issued to the public for the first time by a formerly privately owned company.
+What is a tariff?
+A tax imposed by a government on imported goods.
+ What is a margin?
+ It describes securities purchased with money borrowed from a broker.
+Does a writer buy or sell an option?
+Sell.
+ What is the par value of a bond?
+ The same amount as the face value.
+What is preferred stock?
+Shareholders have a fixed stream of dividends, and no voting rights.
+What is a primary market?
+Where new issues of securities that are offered to the public.
+What are premium bonds?
+Bonds that are selling above par.
+What is a protective put?
+Purchasing of stock combined with a put option that guarantees minimum proceeds equal to the put’s exercise price.
+When was the World Bank established?
+1944.
+What is the premium of an option?
+The purchase price of the option.
+What is a covered call?
+ Purchase of a share of stock with a simultaneous sale of a call on that stock.
+What is a Eurodollar?
+describes US Dollar deposits placed in Europe banks. 
+ IMF refers to what agency?
+ International Monetary Fund
+Exchange of goods without currency?
+Barter
+What does appreciation mean?
+Increase in the value of currency
+What is a hedge ratio commonly known as?
+Delta
