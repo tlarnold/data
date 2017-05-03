@@ -478,3 +478,86 @@ Floating rate notes?
 Provision of some Eurobonds in which the coupon rate is adjusted over time according to prevailing market rates.
 Managed float?
 Exchange rate system in which currencies have no explicit boundaries, but central banks may intervene to influence exchange rate movements
+A forward contract is? 		
+An agreement between a foreign exchange dealer and an MNC that specifies the currencies to be exchanged, exchange rate and date.
+What are the two accounts that make up the balance of payments?  
+The current account and the capital account.
+How do you calculate the current account balance?
+Current account = exports – imports
+How can currency futures be used by corporations?
+The currency futures can be used by a corporation to exchange one currency for another at a specified date in the future at a price that is fixed on the purchase date. It is also called foreign exchange future or FX future.
+What is a currency future?
+Currency future is a future contract in which specified currency can be bought or sell at pre-determined price and date.
+The currency of US?
+Common currency is one dollar five dollar, ten dollar, twenty dollar, fifty dollar, hundred dollar and of rarer occurrence are two dollar bill. 
+What is the currency in the U.S.?
+U.S. dollar
+How much is a pound currency in US currency?
+1 British pound = 1.5149 U.S. dollars
+What is a currency call option?
+It grants the rights to buy a specific currency at a designated price with in a specific period of time 
+What does PPP stand for?
+Purchasing Power Parity
+Balance of trade is known as?
+The difference between total exports and imports
+What is a cross exchange rate?
+It represents the relationship between two currencies that are different from one’s base currency.
+Forward rate formula?
+F = S (1 + p)
+The fisher effect contains what two components?
+Expected inflation rate and the real rate of interest
+What is fundamental forecasting?
+It is based on fundamental relationships between economic variables and exchange rates
+What is arbitrage?
+It is the action to capitalize on discrepancy in quotes prices
+A foreign bond is?
+A bond issued by a borrower foreign to country where the bond is placed
+How does Technical Forecasting work?
+It involves the use of historical exchange rate data to predict values
+Explain the difference between sterilized and nonsterilized intervention?
+Sterilized intervention is conducted to ensure no change in the money supply while nonsterilized intervention is conducted without concern about maintaining the same money supply.
+What is one difference between currency strangles and currency straddles?
+The call and put options of the underlying foreign currency have different exercise prices. 
+The two-break even points for a long strangle position are located where?
+Between the put option premium and above the call option premium
+What are five methods used to invest internationally?
+Direct Purchases of foreign stocks, Investment in MNC stocks, ADRs, ETFs, and IMFs 
+What does the foreign exchange market allow one to do?
+Allows for the exchange of one currency to another
+What are the five characteristics of banks?
+Competitiveness of quote, Special relationship, Speed of execution, Advice about current market conditions, and Forecasting advice
+ What does devalue mean?
+To reduce the value of its currency against other currencies 
+What does revalue mean?
+It increases the value of its currency against other currencies
+What is an American depository receipt?
+Certificates representing bundles of stock 
+What are Eurobonds used for?
+Bonds sold in countries other than the country of the currency denominating the bonds
+A currency put option provides what?
+The right to sell a specific currency at a specific price within a specific period of time 
+What is a currency call option?
+Provides the right to buy a specific currency at a specific price within a specific period of time 
+Cross-Hedging is a common method of?
+Reducing transaction exposure when the currency cannot be hedged
+What does ROI stand for?
+Return on Investment
+What is a corporation?
+A business created as a distinct legal entity composed of one or more individuals or entities
+What does OCF stand for?
+Operating Cash Flow
+What are transaction costs?
+Costs associated with buying and selling investments, including commissions, search costs, and taxes
+What is the difference between debt and equity markets?
+One trades loans and the other trades corporate stocks
+What does going public mean?
+The act of selling stock to the general public for the first time by a corporation or its principle stockholders.
+What is an underwritten agreement?
+ Agreement for the sale of securities in which the investment bank guarantees the sale by purchasing the securities from the issuer, thus agreeing to bear any risks involved in the transaction.
+Who is considered “insiders”?
+Officers, directors, major stockholders, or others who might have inside information on a company's operations.
+General partnership means?
+All partners share in gains or losses, all have unlimited liability for all partnership debts
+What are the advantages to a corporation?
+Limited liability for stockholders, Unlimited life for the business, and  Ownership can be easily transferred
+
