@@ -478,3 +478,83 @@ Floating rate notes?
 Provision of some Eurobonds in which the coupon rate is adjusted over time according to prevailing market rates.
 Managed float?
 Exchange rate system in which currencies have no explicit boundaries, but central banks may intervene to influence exchange rate movements
+What is a Multinational Corporation?
+Multinational Corporations are firms that engage in international business.
+What is an agency problem?
+An agency problem exist when there is conflict of goals between a firm’s managers and shareholders.
+Why do firms pursue international business?
+There are three theories on why firms pursue international business which are the theory of comparative advantage, the imperfect markets theory, and the product cycle theory.
+What is the theory of comparative advantage?
+The theory of comparative advantage says that countries specialize in specific products and this allows firms to penetrate foreign markets.
+What is the imperfect markets theory?
+The imperfect markets theory says that factors of production are immobile and incentivizes firms to seek out foreign opportunities. 
+What is the product cycle theory?
+The product cycle theory says that when firms mature they may recognize opportunities in foreign markets.  
+How do firms engage in international business?
+They have several methods including international trade, licensing, franchising, joint ventures, acquisitions of existing operations, and establishing new foreign subsidiaries. 
+What is the balance of payments?
+The balance of payments is a summary of transactions between domestic and foreign residents for a specific country over a specific time period.
+What is the current account?
+The current account is a summary of the flow of funds between one specified country and another due to the purchase of goods and services. 
+What is the capital account? 
+The capital account is a summary of the flow of funds between two countries due to the sale of assets.
+What do the current account and the financial account sum to?
+The current and financial account always sum to zero. 
+What are some possible reasons to enact trade frictions?
+Reasons to enact trade friction include national security reasons, allowing firms to grow inside their home country without foreign investment, and to keep firms competitive against firms that do not have to follow the same government regulations.  
+What happens to the current account when inflation increases?
+When inflation increases the current account decreases.
+What happens to the current account when national income increases?
+When national income increases the current account decreases.
+What happens to the current account when a nations currency increases?
+When a nations currency increases the current account decreases.
+What happens to the current account deficit when the current account decreases?
+When the current account decreases the deficit increases.
+What factors affect Direct Foreign Investment?
+Factors that affect DFI include privatization, lower taxes, potential economic growth, and exchange rate.
+What factors affect portfolio investment?
+Factors that affect portfolio investment include tax rates on interest or dividends, interest rates, and exchange rates.  
+What is the main difference between Direct Foreign Investment and portfolio investment?
+The difference between DFI and portfolio investment is DFI is a long term investment in a country while portfolio is a short term investment.
+Do countries prefer DFI or portfolio investment?
+Countries prefer DFI over portfolio. 
+What is the foreign exchange market?
+The foreign exchange market is a market where one currency is exchanged for another. 
+What is a foreign exchange dealer?
+Foreign exchange dealers are intermediaries in the foreign exchange market by exchanging currencies desired by MNCs or individuals. 
+What is the spot market?
+The spot market is where transactions for foreign currency exchange happen immediately.
+What is the spot rate?
+The spot rate is the rate at which one currency is traded for another in the spot market.
+What is a bid/ask spread?
+The bid/ask spread represents the difference between the bank’s bid and the ask, or sell price, and is intended to cover the bank’s costs involved in accommodating requests to exchange currencies. 
+What is a direct quote?
+A direct quote is a quotation that represent the value of a foreign currency in dollars.
+What is an indirect quote?
+An indirect quote is a quotation that represent the number of units of a foreign currency per dollar.
+What is a cross rate?
+A cross rate is any quotation that does not involve the dollar. 
+What is a forward contract?
+A forward contract is an agreement between a dealer and an MNC that specifies the currencies to be exchanged, the exchange rate, and the date that the transaction will occur. 
+What is the forward rate?
+The forward rate is the exchange rate specified within the forward contract.
+What is a currency futures contract?
+A currency futures contract specifies a standard volume of a currency to be exchanged on a specific date.
+What is the future rate?
+The future rate is the exchange rate at which someone can buy or sell a currency on a settlement date.
+What is a Eurodollar?
+A Eurodollar is a dollar denominated account in a country other than the U.S.
+What is a Eurobond?
+A Eurobond is a bond sold in a country but not in that currency.
+What is a Foreign Bond?
+A Foreign Bond is a bond sold in a country with their currency.
+What are protective covenants?
+Protective covenants are rules written into a debt contract to make sure a debt holder has best chance of getting paid back. 
+What is an example of a protective covenants?
+An example of a protective covenants is when a firm cannot increase its dividend too much. 
+What does it mean when a currency depreciates?
+When a currency depreciates, its value goes down. 
+What does it mean when a currency is devalued?
+It means that the government pushed down their own currency.
+What is needed to complete an arbitrage trade?
+To complete an arbitrage the trade must be done in a way that has a probability of expected gain along with no probability of loss, and it does not cost any of your own funds.
