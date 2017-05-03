@@ -816,3 +816,78 @@ What does appreciation mean?
 Increase in the value of currency
 What is a hedge ratio commonly known as?
 Delta
+
+ What form of business do multinational Corporations engage in?
+International Business 
+What is the goal of the multinational corporation?
+To maximize shareholder wealth 
+ What is a joint venture?
+A venture or business owned and operated by two or more different firms. 
+In a multinational firm value can be specified in the same manner as what other type of firm?
+ Purely domestic firms
+ What influences the cost of capital in a multinational firm?
+Required rate of return
+ What is a balance of payments?
+ A summary of transactions between domestic and international firms. 
+ If a country has an increasing inflation rate what will happen to its current accounts?
+ They will decrease
+ What are the most influential factors that effect international trade?
+ Inflation, National income, policies and exchange rates
+ Where are foreign stocks bought?
+ On the foreign stock exchange
+Are the tax effects of dividends and capital gains the same in every county?
+ No, they vary among counties
+ Forward rates usually vary what other kind of rate for currency?
+ The spot rate
+ Why do MNC’s use forward contracts?
+To hedge their imports 
+ Corporations with open positions in foreign currencies can use what kind of option to cover their position?
+A call option
+ Firms can use what kind of option to hedge possible acquisitions?
+ A call option 
+ What is a Currency put option?
+ When the owner has the right to sell a currency at a specified price within a certain amount of time 
+ What does ECB stand for? 
+ European Central Bank  
+ What three reasons do governments manage exchange rates?
+To smooth exchange rate movements, implicit exchange rate boundaries and to respond to disturbances. 
+ What is your gain from a locational arbitrage based on?
+Amount of money used to capitalize and the size 
+ What does the PPP theory do? 
+ Attempts to quantify the inflation exchange rate relationship
+How can you test the PPP theory?
+Choose two countries and compare the differences in the inflation rates to the change in currency value. 
+ What two components does the nominal interest rate contain according to the fisher theory?
+  expected inflation rate and the real rate of interest 
+ Operation of an ANC can be influenced by the changes in what?
+ The exchange rates 
+ What key factor does technical forecasting use?
+ Historical exchange rate 
+ Market based forecasting is based on what?
+The spot rate and the forward rate
+ What is cross hedging?
+ A method of reducing transaction exposure when currency cannot be hedged
+ What is the third way of reducing currency exposure?
+  Currency Diversification 
+ Why can’t a MNC portfolio be singled out as optimal?
+ MNC vary in their willingness to accept risk 
+ What three methods are used to adjust the evaluation risk?
+ Risk- Adjusted discount rate, Sensitivity analysis and Simulation 
+ The value of a real option is affected by what two factors?
+ The probability the real option will be exercised and the NPV 
+ If a U.S based MNC wants to acquire a foreign target it must consider what?
+ How the future exchange rate movements may affect the targets local cash flows. 
+ Some international cooperate controlled MNC’s involve what?
+ Real options 
+ what can determine the valuation of international divestiture?
+ Comparing present value to the value of cash flows. 
+ The cap M suggests that the required return of a stock is a function of what?
+ Risk free rate of interest, market rate of return and the stocks beta 
+ A MNC that increase the foreign sales reduces the stock what?
+ Beta 
+ What is a Bankers Acceptance?
+ A time draft drawn on and accepted by a bank 
+ The fisher effect on requires what to determine movement in exchange rates?
+  Data on nominal risk free interest rates of the two countries 
+ In the PPP theory interest rates are correlated to what?
+ Inflation rates
