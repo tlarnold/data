@@ -970,3 +970,83 @@ Which method of forecasting involved a combination of forecasting techniques?
 Mixed forecasting
 What is the difference between the forecasted and realized exchange rates for a given point in time?
 Forecast error
+Why do small countries prefer Direct Foreign Investment?
+This shows that the business is investing long-term
+What is a multinational corporation?
+A firm engaged in international business
+What is the agency problem?
+Conflicting goals between managers and shareholders
+What are explanations to why firms pursue international business?
+Comparative advantage, imperfect market conditions and product cycle
+How do firms engage in international business?
+International trade, licensing, franchising, joint ventures, acquisitions, establishing foreign subsidiaries
+What is Direct Foreign Investment?
+Any method used to increase international business requiring investment directly in foreign operations
+Why is outsourcing typically criticized?
+It shifts jobs to other countries causing workers to lose their jobs in the home country
+What are factors that affect international trade?
+Inflation, national income, government policies and exchange rate
+What is the foreign exchange market?
+The market allowing individuals and multinational corporations to exchange one currency for another
+What does MNC stand for?
+Multinational Corporation
+What is the difference between spot market and spot rate?
+Spot market is where foreign exchange transactions occur while the spot rate is the exchange rate that one currency is traded for another
+What is the bid/ask spread?
+Differential between bid/ask quote to cover costs of accommodating requests of exchange currencies
+What is a direct quote?
+Where a quotation is expressed in the number of U.S. Dollars per foreign currency
+How is an indirec tquote reflecte?
+Foreign currency per U.S. Dollar
+Why would a multinational corporation decide to use a forward contract?
+The MNC may want to lock in a particular exchange rate in order to obtain a currency at a future time
+What is a forward market used for?
+To trade forward contracts
+What are advantages to freely floating exchange rate systems?
+The country is protected from other countries' inflation and are insulated from unemployment problems in other countries
+What are disadvantages of freely floating exchange rate systems?
+A country experiencing high unemployment or economic problems will compound on problems when another country adopts this system
+What is dollarization?
+Replacement of foreign currency with U.S. Dollars
+Why does the government intervene in the foreign exchange market?
+To smooth exchange rate movement, establish implicit exchange rate boundaries and respond to temporary disturbances
+How can the Fed force the dollar to depress?
+By directly exchanging dollars held in reserves for other foreign currencies in the foreign exchange market
+What is sterilized intervention?
+Intervention by the Fed in the foreign exchange market while offsetting transaction in Treasury securities
+What is non-sterilized intervention?
+Intervention by the Fed in foreign exchange markets without adjusting for the change in money supply
+What is the difference between non-sterilized and sterilized intervention?
+Non-sterilized is where the money supply increases and decreases with intervention whereas sterilization does not change the money supply
+What is the benefit to a weak home currency?
+This can stimulate foreign demand for products causing an increase in U.S. exports and jobs
+What is the benefit to a strong home currency?
+This encourages consumers and corporations to buy goods in other countries causing increased foreign companies and domestic producers to refrain from price increases
+What is technical forecasting?
+Using historical exchange rate data to predict future values
+What is a weak-form efficient foreign exchange market?
+Foreign exchange market where historical and current exchangerate information is not useful for forecasting exchange rate movement
+Whatis the assumption of the investor hedge argument?
+Taht investors have full information on corporate exposure to the exchange rate
+What is economic exposure?
+Sensitivity to a firm's cash flows to the exchange rate movements
+What does a multinational corporation's degree of translation depend on?
+The proportion of business conducted by foreign subsidiaries locations of its foreign subsidiaries and accounting method used
+What are techniques for a multinational corporation to hedge its payables?
+Use of currency diversification, stakeholder diversification and maintain low exposure to exchange rate risk
+What is a money market hedge?
+Taking a money market position to cover a future payables position
+What does a currency call option hedge do?
+Gives owner the right to buy the specified amount of currency at a specified price in a given period of time
+What is overhedging?
+Hedgiing to increase the amount in a currency than the actual transaction amount
+What is cross-hedging?
+A common method of reducing transaction exposure when currency cannot be hedged
+What is currency diversification?
+Method of reducing transaction exposure by limiting potential effects of any single currency's movements on the value of a multinational corporation
+What is a parallel loan?
+An exchange of currencies between two parties with the promise to re-exchange at a specified rate on the future date
+What do leading and lagging strategies involve?
+Adjusting the timing of a payment request or disbursement to reflect expectations about future currency movements
+What are alternative hedging techniques?
+Leading and lagging, cross-hedging and currency diversification
