@@ -1050,3 +1050,23 @@ What do leading and lagging strategies involve?
 Adjusting the timing of a payment request or disbursement to reflect expectations about future currency movements
 What are alternative hedging techniques?
 Leading and lagging, cross-hedging and currency diversification
+What is the balance of payments?
+Summary of transactions for a specified country over a specified period of time between domestic and foreign residents.
+What happens when a country's currency weakens?
+Their prices become more attractive to foreign customers, so foreign companies lower their prices to remain in competition with the firms in the country.
+What is the interbank market?
+It is a market that facilitates the exchange of currencies between banks.
+What grants the right to purchase a specific currency at a designated price within a specific period of time?
+A currency call option
+What represents the increase in value of a currency allowed to change in response of market conditions?
+Appreciation represents the increase in value of a currency.
+Is a currency board effective.
+A currency board is only effective if investors believe it will last. 
+How many popular forms of PPP are there and what are they?
+There are 2 forms of PPP. Absolute Form of PPP, and Relative Form of PPP.
+Why does purchasing power parity not consistently occur?
+Due to the lack of substitutes for some traded goods, and confounding effects.
+What theory uses interest rates rather than inflation rates?
+International Fisher Effect (IFE) is used to explain why exchange rates change over time, interest rates are highly correlated with inflation.
+What suggests that the nominal interst rate contains two components; expected inflation rate, and real rate of interest.
+The fisher effect
