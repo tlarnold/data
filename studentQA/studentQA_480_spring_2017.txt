@@ -1050,3 +1050,23 @@ What do leading and lagging strategies involve?
 Adjusting the timing of a payment request or disbursement to reflect expectations about future currency movements
 What are alternative hedging techniques?
 Leading and lagging, cross-hedging and currency diversification
+All relevant public and private information reflects on today's exchange rates.
+Strong form efficeint
+What is transaction exposure?
+The sensivity of contractual transactions in foreign currencies to exchange rate movements.
+What is the exposure of the MNC's consolidated financial statements to exchange rate fluctuations?
+It is known as translation exposure.
+What are the hedging techniques to hedge payables?
+Future hedge, forward hedge, money market hedge, currency option hedge
+Who serves as intermediaries in the foreign exchange market?
+Foreign excange dealers.
+What is often accepted as a medium of exchangeby merchants in many countries?
+The U.S. dollar.
+What are the costs of maintaining an inverntory of a particular currency?
+Inventory costs.
+What transactions are facilitaed within the foreign exchange markets?
+Trade of financial flows.
+What has become larger over time and can easily overwhelm trade flows?
+Capital flows.
+Who has the right to sell a currency at a specified price within specified period of time?
+The owner of a currrecny put option.
